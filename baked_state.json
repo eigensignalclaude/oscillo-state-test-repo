@@ -266,8 +266,8 @@
       "value": null,
       "parameters": {
         "polarity": "NPN",
-        "Cjc": 7e-13,
-        "Cje": 8e-12,
+        "Cjc": 7E-13,
+        "Cje": 8E-12,
         "Rb": 10,
         "Rc": 4
       },
@@ -280,7 +280,7 @@
       "y1": 416,
       "x2": 592,
       "y2": 480,
-      "value": 1e-7,
+      "value": 1E-7,
       "parameters": {},
       "model_ref": null
     },
@@ -291,7 +291,7 @@
       "y1": 416,
       "x2": 656,
       "y2": 480,
-      "value": 5.1e-10,
+      "value": 5.1E-10,
       "parameters": {},
       "model_ref": null
     },
@@ -302,7 +302,7 @@
       "y1": 480,
       "x2": 592,
       "y2": 544,
-      "value": 3.3e-7,
+      "value": 3.3E-7,
       "parameters": {},
       "model_ref": null
     },
@@ -313,7 +313,7 @@
       "y1": 480,
       "x2": 656,
       "y2": 544,
-      "value": 4.3e-7,
+      "value": 4.3E-7,
       "parameters": {},
       "model_ref": null
     },
@@ -324,7 +324,7 @@
       "y1": 480,
       "x2": 784,
       "y2": 480,
-      "value": 6.2e-11,
+      "value": 6.2E-11,
       "parameters": {},
       "model_ref": null
     },
@@ -377,50 +377,6 @@
       "model_ref": null
     },
     {
-      "etype": "C",
-      "name": "C4",
-      "x1": 368,
-      "y1": 288,
-      "x2": 416,
-      "y2": 288,
-      "value": 1.9e-16,
-      "parameters": {},
-      "model_ref": null
-    },
-    {
-      "etype": "L",
-      "name": "L5",
-      "x1": 416,
-      "y1": 288,
-      "x2": 448,
-      "y2": 288,
-      "value": 1.336,
-      "parameters": {},
-      "model_ref": null
-    },
-    {
-      "etype": "R",
-      "name": "R7",
-      "x1": 448,
-      "y1": 288,
-      "x2": 496,
-      "y2": 288,
-      "value": 220,
-      "parameters": {},
-      "model_ref": null
-    },
-    {
-      "etype": "C",
-      "name": "C5",
-      "x1": 368,
-      "y1": 416,
-      "x2": 496,
-      "y2": 416,
-      "value": 2.8e-12,
-      "parameters": {},
-      "model_ref": null
-    },
-    {
       "etype": "L",
       "name": "L6",
       "x1": 272,
@@ -451,7 +407,7 @@
       "y1": 224,
       "x2": 720,
       "y2": 288,
-      "value": 1e-8,
+      "value": 1E-8,
       "parameters": {},
       "model_ref": null
     },
@@ -462,7 +418,7 @@
       "y1": 416,
       "x2": 976,
       "y2": 480,
-      "value": 1e-7,
+      "value": 1E-7,
       "parameters": {},
       "model_ref": null
     },
@@ -528,7 +484,7 @@
       "y1": 224,
       "x2": 784,
       "y2": 224,
-      "value": 1.2e-10,
+      "value": 1.2E-10,
       "parameters": {},
       "model_ref": null
     },
@@ -550,7 +506,7 @@
       "y1": 352,
       "x2": 976,
       "y2": 416,
-      "value": 1e-11,
+      "value": 1E-11,
       "parameters": {},
       "model_ref": null
     },
@@ -564,8 +520,8 @@
       "value": null,
       "parameters": {
         "polarity": "NPN",
-        "Cjc": 7e-13,
-        "Cje": 8e-12,
+        "Cjc": 7E-13,
+        "Cje": 8E-12,
         "Rb": 10,
         "Rc": 4
       },
@@ -581,8 +537,8 @@
       "value": null,
       "parameters": {
         "polarity": "NPN",
-        "Cjc": 7e-13,
-        "Cje": 3e-12,
+        "Cjc": 7E-13,
+        "Cje": 3E-12,
         "Rb": 10,
         "Rc": 4
       },
@@ -595,7 +551,7 @@
       "y1": 544,
       "x2": 336,
       "y2": 480,
-      "value": 1.5e-11,
+      "value": 1.5E-11,
       "parameters": {},
       "model_ref": null
     },
@@ -606,7 +562,7 @@
       "y1": 480,
       "x2": 272,
       "y2": 480,
-      "value": 1.5e-11,
+      "value": 1.5E-11,
       "parameters": {},
       "model_ref": null
     },
@@ -617,7 +573,7 @@
       "y1": 544,
       "x2": 272,
       "y2": 544,
-      "value": 1e-7,
+      "value": 1E-7,
       "parameters": {},
       "model_ref": null
     },
@@ -628,7 +584,7 @@
       "y1": 480,
       "x2": 272,
       "y2": 544,
-      "value": 1e-10,
+      "value": 1E-10,
       "parameters": {},
       "model_ref": "default"
     },
@@ -696,40 +652,7 @@
       "y1": 416,
       "x2": 592,
       "y2": 416,
-      "value": 1e-7,
-      "parameters": {},
-      "model_ref": null
-    },
-    {
-      "etype": "R",
-      "name": "R21",
-      "x1": 448,
-      "y1": 352,
-      "x2": 496,
-      "y2": 352,
-      "value": 25,
-      "parameters": {},
-      "model_ref": null
-    },
-    {
-      "etype": "L",
-      "name": "L8",
-      "x1": 416,
-      "y1": 352,
-      "x2": 448,
-      "y2": 352,
-      "value": 1.336,
-      "parameters": {},
-      "model_ref": null
-    },
-    {
-      "etype": "C",
-      "name": "C14",
-      "x1": 368,
-      "y1": 352,
-      "x2": 416,
-      "y2": 352,
-      "value": 1.706e-15,
+      "value": 1E-7,
       "parameters": {},
       "model_ref": null
     },
@@ -740,7 +663,7 @@
       "y1": 208,
       "x2": 1104,
       "y2": 208,
-      "value": 1e-7,
+      "value": 1E-7,
       "parameters": {},
       "model_ref": null
     },
@@ -777,7 +700,7 @@
       "parameters": {
         "turns_ratio": 0.333333,
         "Lp": 0.000006,
-        "Ls": 6.66667e-7,
+        "Ls": 6.66667E-7,
         "k": 0.999,
         "_orientation": "H"
       },
@@ -790,7 +713,7 @@
       "y1": 224,
       "x2": 1360,
       "y2": 176,
-      "value": 1e-7,
+      "value": 1E-7,
       "parameters": {},
       "model_ref": null
     },
@@ -814,7 +737,7 @@
       "y1": 480,
       "x2": 1440,
       "y2": 528,
-      "value": 1e-7,
+      "value": 1E-7,
       "parameters": {},
       "model_ref": null
     },
@@ -847,7 +770,7 @@
       "y1": 352,
       "x2": 1360,
       "y2": 416,
-      "value": 1.2e-10,
+      "value": 1.2E-10,
       "parameters": {},
       "model_ref": null
     },
@@ -861,7 +784,7 @@
       "value": null,
       "parameters": {
         "polarity": "NPN",
-        "Cjc": 1.7e-12,
+        "Cjc": 1.7E-12,
         "Rb": 10,
         "Rc": 4
       },
@@ -874,7 +797,7 @@
       "y1": 352,
       "x2": 1296,
       "y2": 416,
-      "value": 1e-11,
+      "value": 1E-11,
       "parameters": {},
       "model_ref": null
     },
@@ -912,7 +835,7 @@
       "value": null,
       "parameters": {
         "polarity": "NPN",
-        "Cjc": 3e-12,
+        "Cjc": 3E-12,
         "Rb": 10,
         "Rc": 4
       },
@@ -936,7 +859,7 @@
       "y1": 224,
       "x2": 1536,
       "y2": 224,
-      "value": 1e-7,
+      "value": 1E-7,
       "parameters": {},
       "model_ref": null
     },
@@ -958,7 +881,7 @@
       "y1": 192,
       "x2": 768,
       "y2": 192,
-      "value": 1.6e-12,
+      "value": 1.6E-12,
       "parameters": {},
       "model_ref": null
     },
@@ -969,7 +892,7 @@
       "y1": 240,
       "x2": 816,
       "y2": 272,
-      "value": 1.6e-12,
+      "value": 1.6E-12,
       "parameters": {},
       "model_ref": null
     },
@@ -988,6 +911,34 @@
         "k": 0.99,
         "_gridSize": 16,
         "_orientation": "V"
+      },
+      "model_ref": null
+    },
+    {
+      "etype": "Y",
+      "name": "Y1",
+      "x1": 336,
+      "y1": 416,
+      "x2": 528,
+      "y2": 416,
+      "value": null,
+      "parameters": {
+        "C0": 2.8E-12,
+        "arms": [
+          {
+            "name": "Fundamental",
+            "Rm": 25,
+            "Lm": 1.336,
+            "Cm": 1.706E-15
+          },
+          {
+            "name": "3rd overtone",
+            "Rm": 220,
+            "Lm": 1.336,
+            "Cm": 1.9E-16
+          }
+        ],
+        "_gridSize": 16
       },
       "model_ref": null
     }
@@ -1043,20 +994,6 @@
         "y1": 384,
         "x2": 848,
         "y2": 480
-      },
-      {
-        "id": "w8",
-        "x1": 368,
-        "y1": 352,
-        "x2": 368,
-        "y2": 416
-      },
-      {
-        "id": "w9",
-        "x1": 496,
-        "y1": 416,
-        "x2": 496,
-        "y2": 352
       },
       {
         "id": "w10",
@@ -1134,20 +1071,6 @@
         "y1": 480,
         "x2": 976,
         "y2": 480
-      },
-      {
-        "id": "w21",
-        "x1": 496,
-        "y1": 288,
-        "x2": 496,
-        "y2": 352
-      },
-      {
-        "id": "w22",
-        "x1": 368,
-        "y1": 288,
-        "x2": 368,
-        "y2": 352
       },
       {
         "id": "w23",
@@ -1267,20 +1190,6 @@
         "y1": 240,
         "x2": 784,
         "y2": 224
-      },
-      {
-        "id": "w48",
-        "x1": 528,
-        "y1": 416,
-        "x2": 496,
-        "y2": 416
-      },
-      {
-        "id": "w49",
-        "x1": 368,
-        "y1": 416,
-        "x2": 336,
-        "y2": 416
       },
       {
         "id": "w50",
@@ -1430,20 +1339,7 @@
         "y2": 288
       }
     ],
-    "node_markers": [
-      {
-        "id": "nm1",
-        "x": 528,
-        "y": 416,
-        "name": "Y1_RED"
-      },
-      {
-        "id": "nm2",
-        "x": 336,
-        "y": 416,
-        "name": "Y1_BLUE"
-      }
-    ],
+    "node_markers": [],
     "pin_names": {},
     "grid_size": 16,
     "viewport": {
