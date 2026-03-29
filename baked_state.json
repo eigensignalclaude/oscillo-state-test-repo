@@ -1430,13 +1430,26 @@
         "y2": 288
       }
     ],
-    "node_markers": [],
+    "node_markers": [
+      {
+        "id": "nm1",
+        "x": 528,
+        "y": 416,
+        "name": "Y1_RED"
+      },
+      {
+        "id": "nm2",
+        "x": 336,
+        "y": 416,
+        "name": "Y1_BLUE"
+      }
+    ],
     "pin_names": {},
     "grid_size": 16,
     "viewport": {
-      "x": 23.14168413050743,
-      "y": 272.4596209581866,
-      "zoom": 0.9563988868473271
+      "x": -16.731965658033186,
+      "y": 310.26102362255955,
+      "zoom": 0.8567339260520154
     },
     "nameCounters": {
       "R": 36,
@@ -1455,6 +1468,6 @@
       "NodeMarker": 0
     },
     "wireCounter": 71,
-    "nodeMarkerCounter": 0
+    "nodeMarkerCounter": 2
   }
 }
