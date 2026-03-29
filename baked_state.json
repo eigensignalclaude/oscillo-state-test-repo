@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "title": "OscilloScope Project",
+  "title": "API round-trip test",
   "ground_node": "0",
   "elements": [
     {
@@ -280,7 +280,7 @@
       "y1": 416,
       "x2": 592,
       "y2": 480,
-      "value": 1e-07,
+      "value": 1e-7,
       "parameters": {},
       "model_ref": null
     },
@@ -302,7 +302,7 @@
       "y1": 480,
       "x2": 592,
       "y2": 544,
-      "value": 3.3e-07,
+      "value": 3.3e-7,
       "parameters": {},
       "model_ref": null
     },
@@ -313,7 +313,7 @@
       "y1": 480,
       "x2": 656,
       "y2": 544,
-      "value": 4.3e-07,
+      "value": 4.3e-7,
       "parameters": {},
       "model_ref": null
     },
@@ -451,7 +451,7 @@
       "y1": 224,
       "x2": 720,
       "y2": 288,
-      "value": 1e-08,
+      "value": 1e-8,
       "parameters": {},
       "model_ref": null
     },
@@ -462,7 +462,7 @@
       "y1": 416,
       "x2": 976,
       "y2": 480,
-      "value": 1e-07,
+      "value": 1e-7,
       "parameters": {},
       "model_ref": null
     },
@@ -617,7 +617,7 @@
       "y1": 544,
       "x2": 272,
       "y2": 544,
-      "value": 1e-07,
+      "value": 1e-7,
       "parameters": {},
       "model_ref": null
     },
@@ -696,7 +696,7 @@
       "y1": 416,
       "x2": 592,
       "y2": 416,
-      "value": 1e-07,
+      "value": 1e-7,
       "parameters": {},
       "model_ref": null
     },
@@ -740,7 +740,7 @@
       "y1": 208,
       "x2": 1104,
       "y2": 208,
-      "value": 1e-07,
+      "value": 1e-7,
       "parameters": {},
       "model_ref": null
     },
@@ -776,8 +776,8 @@
       "value": null,
       "parameters": {
         "turns_ratio": 0.333333,
-        "Lp": 6e-06,
-        "Ls": 6.66667e-07,
+        "Lp": 0.000006,
+        "Ls": 6.66667e-7,
         "k": 0.999,
         "_orientation": "H"
       },
@@ -790,7 +790,7 @@
       "y1": 224,
       "x2": 1360,
       "y2": 176,
-      "value": 1e-07,
+      "value": 1e-7,
       "parameters": {},
       "model_ref": null
     },
@@ -814,7 +814,7 @@
       "y1": 480,
       "x2": 1440,
       "y2": 528,
-      "value": 1e-07,
+      "value": 1e-7,
       "parameters": {},
       "model_ref": null
     },
@@ -936,7 +936,7 @@
       "y1": 224,
       "x2": 1536,
       "y2": 224,
-      "value": 1e-07,
+      "value": 1e-7,
       "parameters": {},
       "model_ref": null
     },
