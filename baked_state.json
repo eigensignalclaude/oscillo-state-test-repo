@@ -324,7 +324,7 @@
       "y1": 416,
       "x2": 720,
       "y2": 416,
-      "value": 6.2e-11,
+      "value": 1e-10,
       "parameters": {},
       "model_ref": null
     },
