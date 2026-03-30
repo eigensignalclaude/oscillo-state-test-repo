@@ -1,931 +1,1175 @@
 {
-  "version": "1.0",
+  "version": "2.0",
   "title": "OscilloScope Project",
-  "ground_node": "0",
   "elements": [
     {
       "etype": "G",
       "name": "GND1",
+      "nodes": [
+        "0"
+      ],
       "x1": 784,
       "y1": 464,
       "x2": 784,
-      "y2": 496,
-      "value": null,
-      "parameters": {},
-      "model_ref": null
+      "y2": 496
     },
     {
       "etype": "G",
       "name": "GND2",
+      "nodes": [
+        "0"
+      ],
       "x1": 528,
       "y1": 480,
       "x2": 528,
-      "y2": 496,
-      "value": null,
-      "parameters": {},
-      "model_ref": null
+      "y2": 496
     },
     {
       "etype": "G",
       "name": "GND3",
+      "nodes": [
+        "0"
+      ],
       "x1": 336,
       "y1": 544,
       "x2": 320,
-      "y2": 544,
-      "value": null,
-      "parameters": {},
-      "model_ref": null
+      "y2": 544
     },
     {
       "etype": "G",
       "name": "GND4",
+      "nodes": [
+        "0"
+      ],
       "x1": 720,
       "y1": 288,
       "x2": 720,
-      "y2": 304,
-      "value": null,
-      "parameters": {},
-      "model_ref": null
+      "y2": 304
     },
     {
       "etype": "G",
       "name": "GND5",
+      "nodes": [
+        "0"
+      ],
       "x1": 976,
       "y1": 464,
       "x2": 976,
-      "y2": 480,
-      "value": null,
-      "parameters": {},
-      "model_ref": null
+      "y2": 480
     },
     {
       "etype": "G",
       "name": "GND6",
+      "nodes": [
+        "0"
+      ],
       "x1": 784,
       "y1": 288,
       "x2": 784,
-      "y2": 304,
-      "value": null,
-      "parameters": {},
-      "model_ref": null
+      "y2": 304
     },
     {
       "etype": "G",
       "name": "GND7",
+      "nodes": [
+        "0"
+      ],
       "x1": 848,
       "y1": 288,
       "x2": 848,
-      "y2": 304,
-      "value": null,
-      "parameters": {},
-      "model_ref": null
+      "y2": 304
     },
     {
       "etype": "G",
       "name": "GND8",
+      "nodes": [
+        "0"
+      ],
       "x1": 1424,
       "y1": 272,
       "x2": 1424,
-      "y2": 304,
-      "value": null,
-      "parameters": {},
-      "model_ref": null
+      "y2": 304
     },
     {
       "etype": "G",
       "name": "GND9",
+      "nodes": [
+        "0"
+      ],
       "x1": 1296,
       "y1": 160,
       "x2": 1296,
-      "y2": 128,
-      "value": null,
-      "parameters": {},
-      "model_ref": null
+      "y2": 128
     },
     {
       "etype": "G",
       "name": "GND10",
+      "nodes": [
+        "0"
+      ],
       "x1": 1296,
       "y1": 416,
       "x2": 1296,
-      "y2": 432,
-      "value": null,
-      "parameters": {},
-      "model_ref": null
+      "y2": 432
     },
     {
       "etype": "G",
       "name": "GND11",
+      "nodes": [
+        "0"
+      ],
       "x1": 1360,
       "y1": 464,
       "x2": 1360,
-      "y2": 480,
-      "value": null,
-      "parameters": {},
-      "model_ref": null
+      "y2": 480
     },
     {
       "etype": "G",
       "name": "GND12",
+      "nodes": [
+        "0"
+      ],
       "x1": 1232,
       "y1": 352,
       "x2": 1232,
-      "y2": 368,
-      "value": null,
-      "parameters": {},
-      "model_ref": null
+      "y2": 368
     },
     {
       "etype": "G",
       "name": "GND13",
+      "nodes": [
+        "0"
+      ],
       "x1": 1168,
       "y1": 416,
       "x2": 1168,
-      "y2": 432,
-      "value": null,
-      "parameters": {},
-      "model_ref": null
+      "y2": 432
     },
     {
       "etype": "G",
       "name": "GND14",
+      "nodes": [
+        "0"
+      ],
       "x1": 1104,
       "y1": 336,
       "x2": 1104,
-      "y2": 368,
-      "value": null,
-      "parameters": {},
-      "model_ref": null
+      "y2": 368
     },
     {
       "etype": "G",
       "name": "GND15",
+      "nodes": [
+        "0"
+      ],
       "x1": 1520,
       "y1": 272,
       "x2": 1520,
-      "y2": 288,
-      "value": null,
-      "parameters": {},
-      "model_ref": null
+      "y2": 288
     },
     {
-      "etype": "VR",
+      "etype": "V",
       "name": "VR1",
+      "nodes": [
+        "net18",
+        "?"
+      ],
+      "value": 5.7,
+      "parameters": {
+        "rail": true
+      },
       "x1": 784,
       "y1": 336,
       "x2": 816,
-      "y2": 336,
-      "value": 5.7,
-      "parameters": {},
-      "model_ref": null
+      "y2": 336
     },
     {
-      "etype": "VR",
+      "etype": "V",
       "name": "VR2",
+      "nodes": [
+        "net13",
+        "?"
+      ],
+      "value": 5.7,
+      "parameters": {
+        "rail": true
+      },
       "x1": 592,
       "y1": 288,
       "x2": 592,
-      "y2": 256,
-      "value": 5.7,
-      "parameters": {},
-      "model_ref": null
+      "y2": 256
     },
     {
-      "etype": "VR",
+      "etype": "V",
       "name": "VR3",
+      "nodes": [
+        "net1",
+        "?"
+      ],
+      "value": 12,
+      "parameters": {
+        "rail": true
+      },
       "x1": 848,
       "y1": 192,
       "x2": 848,
-      "y2": 160,
-      "value": 12,
-      "parameters": {},
-      "model_ref": null
+      "y2": 160
     },
     {
-      "etype": "VR",
+      "etype": "V",
       "name": "VR4",
+      "nodes": [
+        "net32",
+        "?"
+      ],
+      "value": 6.4,
+      "parameters": {
+        "rail": true
+      },
       "x1": 336,
       "y1": 480,
       "x2": 320,
-      "y2": 480,
-      "value": 6.4,
-      "parameters": {},
-      "model_ref": null
+      "y2": 480
     },
     {
-      "etype": "VR",
+      "etype": "V",
       "name": "VR5",
+      "nodes": [
+        "net15",
+        "?"
+      ],
+      "value": 5.7,
+      "parameters": {
+        "rail": true
+      },
       "x1": 976,
       "y1": 288,
       "x2": 976,
-      "y2": 256,
-      "value": 5.7,
-      "parameters": {},
-      "model_ref": null
+      "y2": 256
     },
     {
-      "etype": "VR",
+      "etype": "V",
       "name": "VR6",
+      "nodes": [
+        "net19",
+        "?"
+      ],
+      "value": 5.7,
+      "parameters": {
+        "rail": true
+      },
       "x1": 912,
       "y1": 336,
       "x2": 912,
-      "y2": 320,
-      "value": 5.7,
-      "parameters": {},
-      "model_ref": null
+      "y2": 320
     },
     {
-      "etype": "VR",
+      "etype": "V",
       "name": "VR7",
+      "nodes": [
+        "net26",
+        "?"
+      ],
+      "value": 0.5,
+      "parameters": {
+        "rail": true
+      },
       "x1": 336,
       "y1": 416,
       "x2": 320,
-      "y2": 416,
-      "value": 0.5,
-      "parameters": {},
-      "model_ref": null
+      "y2": 416
     },
     {
-      "etype": "VR",
+      "etype": "V",
       "name": "VR8",
+      "nodes": [
+        "net4",
+        "?"
+      ],
+      "value": 12,
+      "parameters": {
+        "rail": true
+      },
       "x1": 1168,
       "y1": 208,
       "x2": 1168,
-      "y2": 176,
-      "value": 12,
-      "parameters": {},
-      "model_ref": null
+      "y2": 176
     },
     {
       "etype": "Q",
       "name": "Q1",
+      "nodes": [
+        "net18",
+        "net22",
+        "net24"
+      ],
+      "model_ref": "2N5179",
       "x1": 656,
       "y1": 352,
       "x2": 720,
-      "y2": 352,
-      "value": null,
-      "parameters": {
-        "polarity": "NPN",
-        "Cjc": 7e-13,
-        "Cje": 8e-12,
-        "Rb": 10,
-        "Rc": 4
-      },
-      "model_ref": "2N5179_T85C"
+      "y2": 352
     },
     {
       "etype": "C",
       "name": "C1",
+      "nodes": [
+        "net22",
+        "net28"
+      ],
+      "value": 1e-7,
       "x1": 592,
       "y1": 352,
       "x2": 592,
-      "y2": 416,
-      "value": 1e-07,
-      "parameters": {},
-      "model_ref": null
+      "y2": 416
     },
     {
       "etype": "C",
       "name": "C2",
+      "nodes": [
+        "net22",
+        "net29"
+      ],
+      "value": 5.1e-10,
       "x1": 656,
       "y1": 352,
       "x2": 656,
-      "y2": 416,
-      "value": 5.1e-10,
-      "parameters": {},
-      "model_ref": null
+      "y2": 416
     },
     {
       "etype": "L",
       "name": "L1",
+      "nodes": [
+        "net28",
+        "net24"
+      ],
+      "value": 3.3e-7,
       "x1": 592,
       "y1": 416,
       "x2": 592,
-      "y2": 480,
-      "value": 3.3e-07,
-      "parameters": {},
-      "model_ref": null
+      "y2": 480
     },
     {
       "etype": "L",
       "name": "L2",
+      "nodes": [
+        "net29",
+        "net24"
+      ],
+      "value": 4.3e-7,
       "x1": 656,
       "y1": 416,
       "x2": 656,
-      "y2": 480,
-      "value": 4.3e-07,
-      "parameters": {},
-      "model_ref": null
+      "y2": 480
     },
     {
       "etype": "C",
       "name": "C3",
+      "nodes": [
+        "net18",
+        "net24"
+      ],
+      "value": 6.2e-11,
       "x1": 784,
       "y1": 336,
       "x2": 784,
-      "y2": 400,
-      "value": 6.2e-11,
-      "parameters": {},
-      "model_ref": null
+      "y2": 400
     },
     {
       "etype": "L",
       "name": "L3",
+      "nodes": [
+        "net24",
+        "0"
+      ],
+      "value": 0.0001,
+      "parameters": {
+        "RS": 4.1
+      },
       "x1": 784,
       "y1": 400,
       "x2": 784,
-      "y2": 464,
-      "value": 0.0001,
-      "parameters": {
-        "Rs": 4.1
-      },
-      "model_ref": null
+      "y2": 464
     },
     {
       "etype": "L",
       "name": "L4",
+      "nodes": [
+        "net14",
+        "net22"
+      ],
+      "value": 0.00022,
+      "parameters": {
+        "RS": 6.8
+      },
       "x1": 656,
       "y1": 288,
       "x2": 656,
-      "y2": 352,
-      "value": 0.00022,
-      "parameters": {
-        "Rs": 6.8
-      },
-      "model_ref": null
+      "y2": 352
     },
     {
       "etype": "R",
       "name": "R1",
+      "nodes": [
+        "net21",
+        "0"
+      ],
+      "value": 10000000,
       "x1": 528,
       "y1": 416,
       "x2": 528,
-      "y2": 480,
-      "value": 10000000,
-      "parameters": {},
-      "model_ref": null
+      "y2": 480
     },
     {
       "etype": "R",
       "name": "R2",
+      "nodes": [
+        "net20",
+        "net21"
+      ],
+      "value": 10000000,
       "x1": 464,
       "y1": 416,
       "x2": 528,
-      "y2": 416,
-      "value": 10000000,
-      "parameters": {},
-      "model_ref": null
+      "y2": 416
     },
     {
       "etype": "L",
       "name": "L6",
+      "nodes": [
+        "net30",
+        "net34"
+      ],
+      "value": 0.00022,
+      "parameters": {
+        "RS": 6.8
+      },
       "x1": 464,
       "y1": 544,
       "x2": 400,
-      "y2": 544,
-      "value": 0.00022,
-      "parameters": {
-        "Rs": 6.8
-      },
-      "model_ref": null
+      "y2": 544
     },
     {
       "etype": "R",
       "name": "R8",
+      "nodes": [
+        "net34",
+        "0"
+      ],
+      "value": 681,
       "x1": 400,
       "y1": 544,
       "x2": 336,
-      "y2": 544,
-      "value": 681,
-      "parameters": {},
-      "model_ref": null
+      "y2": 544
     },
     {
       "etype": "C",
       "name": "C6",
+      "nodes": [
+        "net9",
+        "0"
+      ],
+      "value": 1e-8,
       "x1": 720,
       "y1": 224,
       "x2": 720,
-      "y2": 288,
-      "value": 1e-08,
-      "parameters": {},
-      "model_ref": null
+      "y2": 288
     },
     {
       "etype": "C",
       "name": "C7",
+      "nodes": [
+        "net25",
+        "0"
+      ],
+      "value": 1e-7,
       "x1": 976,
       "y1": 400,
       "x2": 976,
-      "y2": 464,
-      "value": 1e-07,
-      "parameters": {},
-      "model_ref": null
+      "y2": 464
     },
     {
       "etype": "R",
       "name": "R9",
+      "nodes": [
+        "net13",
+        "net14"
+      ],
+      "value": 31600,
       "x1": 592,
       "y1": 288,
       "x2": 656,
-      "y2": 288,
-      "value": 31600,
-      "parameters": {},
-      "model_ref": null
+      "y2": 288
     },
     {
       "etype": "R",
       "name": "R10",
+      "nodes": [
+        "net8",
+        "net14"
+      ],
+      "value": 13300,
       "x1": 656,
       "y1": 224,
       "x2": 656,
-      "y2": 288,
-      "value": 13300,
-      "parameters": {},
-      "model_ref": null
+      "y2": 288
     },
     {
       "etype": "R",
       "name": "R11",
+      "nodes": [
+        "net9",
+        "net8"
+      ],
+      "value": 5000,
       "x1": 720,
       "y1": 224,
       "x2": 656,
-      "y2": 224,
-      "value": 5000,
-      "parameters": {},
-      "model_ref": null
+      "y2": 224
     },
     {
       "etype": "D",
       "name": "D1",
+      "nodes": [
+        "net9",
+        "net10"
+      ],
+      "model_ref": "5082-2800-RevB",
       "x1": 736,
       "y1": 224,
       "x2": 768,
-      "y2": 224,
-      "value": null,
-      "parameters": {
-        "Cj": 1.6e-12
-      },
-      "model_ref": "5082-2800-RevB"
+      "y2": 224
     },
     {
       "etype": "D",
       "name": "D2",
+      "nodes": [
+        "net10",
+        "0"
+      ],
+      "model_ref": "5082-2800-RevB",
       "x1": 784,
       "y1": 240,
       "x2": 784,
-      "y2": 272,
-      "value": null,
-      "parameters": {
-        "Cj": 1.6e-12
-      },
-      "model_ref": "5082-2800-RevB"
+      "y2": 272
     },
     {
       "etype": "C",
       "name": "C8",
+      "nodes": [
+        "net11",
+        "net10"
+      ],
+      "value": 1.2e-10,
       "x1": 848,
       "y1": 224,
       "x2": 784,
-      "y2": 224,
-      "value": 1.2e-10,
-      "parameters": {},
-      "model_ref": null
+      "y2": 224
     },
     {
       "etype": "R",
       "name": "R12",
+      "nodes": [
+        "net11",
+        "0"
+      ],
+      "value": 2150,
       "x1": 848,
       "y1": 224,
       "x2": 848,
-      "y2": 288,
-      "value": 2150,
-      "parameters": {},
-      "model_ref": null
+      "y2": 288
     },
     {
       "etype": "C",
       "name": "C9",
+      "nodes": [
+        "net2",
+        "net25"
+      ],
+      "value": 1e-11,
       "x1": 976,
       "y1": 336,
       "x2": 976,
-      "y2": 400,
-      "value": 1e-11,
-      "parameters": {},
-      "model_ref": null
+      "y2": 400
     },
     {
       "etype": "Q",
       "name": "Q2",
+      "nodes": [
+        "net1",
+        "net2",
+        "net11"
+      ],
+      "model_ref": "2N5179",
       "x1": 1040,
       "y1": 208,
       "x2": 848,
-      "y2": 208,
-      "value": null,
-      "parameters": {
-        "polarity": "NPN",
-        "Cjc": 7e-13,
-        "Cje": 8e-12,
-        "Rb": 10,
-        "Rc": 4
-      },
-      "model_ref": "2N5179_T85C"
+      "y2": 208
     },
     {
       "etype": "Q",
       "name": "Q3",
+      "nodes": [
+        "net2",
+        "net25",
+        "net30"
+      ],
+      "model_ref": "2N5179",
       "x1": 976,
       "y1": 400,
       "x2": 1040,
-      "y2": 400,
-      "value": null,
-      "parameters": {
-        "polarity": "NPN",
-        "Cjc": 7e-13,
-        "Cje": 3e-12,
-        "Rb": 10,
-        "Rc": 4
-      },
-      "model_ref": "2N5179_T85C"
+      "y2": 400
     },
     {
       "etype": "C",
       "name": "C10",
+      "nodes": [
+        "net30",
+        "net20"
+      ],
+      "value": 1.5e-11,
       "x1": 464,
       "y1": 480,
       "x2": 464,
-      "y2": 416,
-      "value": 1.5e-11,
-      "parameters": {},
-      "model_ref": null
+      "y2": 416
     },
     {
       "etype": "C",
       "name": "C11",
+      "nodes": [
+        "net20",
+        "net27"
+      ],
+      "value": 1.5e-11,
       "x1": 464,
       "y1": 416,
       "x2": 400,
-      "y2": 416,
-      "value": 1.5e-11,
-      "parameters": {},
-      "model_ref": null
+      "y2": 416
     },
     {
       "etype": "C",
       "name": "C12",
+      "nodes": [
+        "net30",
+        "net33"
+      ],
+      "value": 1e-7,
       "x1": 464,
       "y1": 480,
       "x2": 400,
-      "y2": 480,
-      "value": 1e-07,
-      "parameters": {},
-      "model_ref": null
+      "y2": 480
     },
     {
       "etype": "D_vcap",
       "name": "DV1",
+      "nodes": [
+        "net27",
+        "net33"
+      ],
+      "value": 1e-10,
+      "model_ref": "default",
       "x1": 400,
       "y1": 416,
       "x2": 400,
-      "y2": 480,
-      "value": 1e-10,
-      "parameters": {},
-      "model_ref": "default"
+      "y2": 480
     },
     {
       "etype": "R",
       "name": "R13",
+      "nodes": [
+        "net27",
+        "net26"
+      ],
+      "value": 100000,
       "x1": 400,
       "y1": 416,
       "x2": 336,
-      "y2": 416,
-      "value": 100000,
-      "parameters": {},
-      "model_ref": null
+      "y2": 416
     },
     {
       "etype": "R",
       "name": "R14",
+      "nodes": [
+        "net33",
+        "net32"
+      ],
+      "value": 100000,
       "x1": 400,
       "y1": 480,
       "x2": 336,
-      "y2": 480,
-      "value": 100000,
-      "parameters": {},
-      "model_ref": null
+      "y2": 480
     },
     {
       "etype": "L",
       "name": "L7",
+      "nodes": [
+        "net15",
+        "net2"
+      ],
+      "value": 0.00022,
+      "parameters": {
+        "RS": 6.8
+      },
       "x1": 976,
       "y1": 288,
       "x2": 976,
-      "y2": 336,
-      "value": 0.00022,
-      "parameters": {
-        "Rs": 6.8
-      },
-      "model_ref": null
+      "y2": 336
     },
     {
       "etype": "R",
       "name": "R15",
+      "nodes": [
+        "0",
+        "net25"
+      ],
+      "value": 6810,
       "x1": 912,
       "y1": 464,
       "x2": 912,
-      "y2": 400,
-      "value": 6810,
-      "parameters": {},
-      "model_ref": null
+      "y2": 400
     },
     {
       "etype": "R",
       "name": "R16",
+      "nodes": [
+        "net25",
+        "net19"
+      ],
+      "value": 6810,
       "x1": 912,
       "y1": 400,
       "x2": 912,
-      "y2": 336,
-      "value": 6810,
-      "parameters": {},
-      "model_ref": null
+      "y2": 336
     },
     {
       "etype": "C",
       "name": "C13",
+      "nodes": [
+        "net21",
+        "net22"
+      ],
+      "value": 1e-7,
       "x1": 528,
       "y1": 352,
       "x2": 592,
-      "y2": 352,
-      "value": 1e-07,
-      "parameters": {},
-      "model_ref": null
+      "y2": 352
     },
     {
       "etype": "C",
       "name": "C15",
+      "nodes": [
+        "net2",
+        "net3"
+      ],
+      "value": 1e-7,
       "x1": 1040,
       "y1": 208,
       "x2": 1104,
-      "y2": 208,
-      "value": 1e-07,
-      "parameters": {},
-      "model_ref": null
+      "y2": 208
     },
     {
       "etype": "R",
       "name": "R22",
+      "nodes": [
+        "net2",
+        "net3"
+      ],
+      "value": 68100,
       "x1": 1040,
       "y1": 272,
       "x2": 1104,
-      "y2": 272,
-      "value": 68100,
-      "parameters": {},
-      "model_ref": null
+      "y2": 272
     },
     {
       "etype": "R",
       "name": "R23",
+      "nodes": [
+        "net5",
+        "net12"
+      ],
+      "value": 511,
       "x1": 1360,
       "y1": 208,
       "x2": 1360,
-      "y2": 272,
-      "value": 511,
-      "parameters": {},
-      "model_ref": null
+      "y2": 272
     },
     {
       "etype": "T",
       "name": "T1",
+      "nodes": [
+        "net5",
+        "net5",
+        "net6",
+        "net6"
+      ],
+      "parameters": {
+        "L_primary": 0.000006,
+        "ratio": 0.333333,
+        "coupling": 0.999
+      },
       "x1": 1360,
       "y1": 208,
       "x2": 1424,
-      "y2": 208,
-      "value": null,
-      "parameters": {
-        "turns_ratio": 0.333333,
-        "Lp": 6e-06,
-        "Ls": 6.66667e-07,
-        "k": 0.999,
-        "_orientation": "H"
-      },
-      "model_ref": null
+      "y2": 208
     },
     {
       "etype": "C",
       "name": "C19",
+      "nodes": [
+        "net5",
+        "0"
+      ],
+      "value": 1e-7,
       "x1": 1296,
       "y1": 208,
       "x2": 1296,
-      "y2": 160,
-      "value": 1e-07,
-      "parameters": {},
-      "model_ref": null
+      "y2": 160
     },
     {
       "etype": "L",
       "name": "L9",
+      "nodes": [
+        "net5",
+        "net4"
+      ],
+      "value": 0.00022,
+      "parameters": {
+        "RS": 6.8
+      },
       "x1": 1296,
       "y1": 208,
       "x2": 1232,
-      "y2": 208,
-      "value": 0.00022,
-      "parameters": {
-        "Rs": 6.8
-      },
-      "model_ref": null
+      "y2": 208
     },
     {
       "etype": "C",
       "name": "C20",
+      "nodes": [
+        "net31",
+        "0"
+      ],
+      "value": 1e-7,
       "x1": 1360,
       "y1": 416,
       "x2": 1360,
-      "y2": 464,
-      "value": 1e-07,
-      "parameters": {},
-      "model_ref": null
+      "y2": 464
     },
     {
       "etype": "R",
       "name": "R24",
+      "nodes": [
+        "net17",
+        "net31"
+      ],
+      "value": 681,
       "x1": 1360,
       "y1": 352,
       "x2": 1360,
-      "y2": 416,
-      "value": 681,
-      "parameters": {},
-      "model_ref": null
+      "y2": 416
     },
     {
       "etype": "R",
       "name": "R25",
+      "nodes": [
+        "net17",
+        "0"
+      ],
+      "value": 133,
       "x1": 1296,
       "y1": 352,
       "x2": 1296,
-      "y2": 416,
-      "value": 133,
-      "parameters": {},
-      "model_ref": null
+      "y2": 416
     },
     {
       "etype": "C",
       "name": "C21",
+      "nodes": [
+        "net16",
+        "net17"
+      ],
+      "value": 1.2e-10,
       "x1": 1296,
       "y1": 288,
       "x2": 1296,
-      "y2": 352,
-      "value": 1.2e-10,
-      "parameters": {},
-      "model_ref": null
+      "y2": 352
     },
     {
       "etype": "Q",
       "name": "Q4",
+      "nodes": [
+        "net12",
+        "net16",
+        "net17"
+      ],
+      "model_ref": "Q9_RF",
       "x1": 1296,
       "y1": 288,
       "x2": 1360,
-      "y2": 288,
-      "value": null,
-      "parameters": {
-        "polarity": "NPN",
-        "Cjc": 1.7e-12,
-        "Rb": 10,
-        "Rc": 4
-      },
-      "model_ref": "Q9_RF_T85C"
+      "y2": 288
     },
     {
       "etype": "C",
       "name": "C23",
+      "nodes": [
+        "net16",
+        "0"
+      ],
+      "value": 1e-11,
       "x1": 1232,
       "y1": 288,
       "x2": 1232,
-      "y2": 352,
-      "value": 1e-11,
-      "parameters": {},
-      "model_ref": null
+      "y2": 352
     },
     {
       "etype": "R",
       "name": "R28",
+      "nodes": [
+        "net23",
+        "0"
+      ],
+      "value": 909,
       "x1": 1168,
       "y1": 352,
       "x2": 1168,
-      "y2": 416,
-      "value": 909,
-      "parameters": {},
-      "model_ref": null
+      "y2": 416
     },
     {
       "etype": "L",
       "name": "L10",
+      "nodes": [
+        "net16",
+        "net23"
+      ],
+      "value": 0.00022,
+      "parameters": {
+        "RS": 6.8
+      },
       "x1": 1168,
       "y1": 288,
       "x2": 1168,
-      "y2": 352,
-      "value": 0.00022,
-      "parameters": {
-        "Rs": 6.8
-      },
-      "model_ref": null
+      "y2": 352
     },
     {
       "etype": "Q",
       "name": "Q5",
+      "nodes": [
+        "net4",
+        "net3",
+        "net16"
+      ],
+      "model_ref": "2N6429A",
       "x1": 1104,
       "y1": 272,
       "x2": 1168,
-      "y2": 272,
-      "value": null,
-      "parameters": {
-        "polarity": "NPN",
-        "Cjc": 3e-12,
-        "Rb": 10,
-        "Rc": 4
-      },
-      "model_ref": "2N6429A_T85C"
+      "y2": 272
     },
     {
       "etype": "R",
       "name": "R31",
+      "nodes": [
+        "net3",
+        "0"
+      ],
+      "value": 100000,
       "x1": 1104,
       "y1": 272,
       "x2": 1104,
-      "y2": 336,
-      "value": 100000,
-      "parameters": {},
-      "model_ref": null
+      "y2": 336
     },
     {
       "etype": "C",
       "name": "C25",
+      "nodes": [
+        "net7",
+        "net6"
+      ],
+      "value": 1e-7,
       "x1": 1520,
       "y1": 208,
       "x2": 1456,
-      "y2": 208,
-      "value": 1e-07,
-      "parameters": {},
-      "model_ref": null
+      "y2": 208
     },
     {
       "etype": "R",
       "name": "R32",
+      "nodes": [
+        "net7",
+        "0"
+      ],
+      "value": 50,
       "x1": 1520,
       "y1": 208,
       "x2": 1520,
-      "y2": 272,
-      "value": 50,
-      "parameters": {},
-      "model_ref": null
+      "y2": 272
     },
     {
       "etype": "T",
       "name": "T2",
+      "nodes": [
+        "net5",
+        "net6",
+        "net12",
+        "0"
+      ],
+      "parameters": {
+        "L_primary": 0.001,
+        "ratio": 1,
+        "coupling": 0.99
+      },
       "x1": 1392,
       "y1": 208,
       "x2": 1424,
-      "y2": 272,
-      "value": null,
-      "parameters": {
-        "turns_ratio": 1,
-        "Lp": 0.001,
-        "Ls": 0.001,
-        "k": 0.99,
-        "_gridSize": 16,
-        "_orientation": "V"
-      },
-      "model_ref": null
+      "y2": 272
     },
     {
       "etype": "Y",
       "name": "Y1",
-      "x1": 464,
-      "y1": 352,
-      "x2": 528,
-      "y2": 352,
-      "value": null,
+      "nodes": [
+        "net20",
+        "net21"
+      ],
       "parameters": {
         "C0": 2.8e-12,
         "arms": [
           {
             "name": "Fundamental",
             "Rm": 25,
-            "Lm": 1.336,
-            "Cm": 1.7098000999451498e-15
+            "Cm": 1.7098000999451498e-15,
+            "f": 3329999.9999999995
           },
           {
             "name": "3rd overtone",
             "Rm": 220,
-            "Lm": 1.336,
-            "Cm": 1.9e-16
+            "Cm": 1.9e-16,
+            "f": 9989416.064352619
           }
-        ],
-        "_gridSize": 16
+        ]
       },
-      "model_ref": null
+      "x1": 464,
+      "y1": 352,
+      "x2": 528,
+      "y2": 352
     }
   ],
-  "models": {},
+  "models": {
+    "2N5179": {
+      "model_type": "NPN",
+      "parameters": {
+        "IS": 6.928e-17,
+        "BF": 240,
+        "NF": 1,
+        "VAF": 100,
+        "IKF": 0.02203,
+        "ISE": 0,
+        "NE": 1.177,
+        "BR": 1.176,
+        "NR": 1,
+        "ISC": 0,
+        "NC": 2,
+        "RB": 10,
+        "RC": 4,
+        "CJC": 8.931e-13,
+        "MJC": 0.3017,
+        "VJC": 0.75,
+        "FC": 0.5,
+        "CJE": 9.398e-13,
+        "MJE": 0.3453,
+        "VJE": 0.75,
+        "TF": 1.411e-10,
+        "TR": 1.588e-9,
+        "ITF": 0.27,
+        "VTF": 10,
+        "XTF": 30,
+        "XTI": 3,
+        "EG": 1.11,
+        "XTB": 1.5
+      }
+    },
+    "5082-2800-RevB": {
+      "model_type": "D",
+      "parameters": {
+        "IS": 2.2e-9,
+        "RS": 25,
+        "N": 1.08,
+        "BV": 75,
+        "IBV": 0.0001,
+        "CJO": 1.6e-12,
+        "VJ": 0.6,
+        "M": 0.5,
+        "EG": 0.4,
+        "XTI": 2,
+        "TT": 1e-10
+      }
+    },
+    "default": {
+      "model_type": "D",
+      "parameters": {
+        "CJO": 1e-10
+      }
+    },
+    "Q9_RF": {
+      "model_type": "NPN",
+      "parameters": {
+        "IS": 2e-14,
+        "BF": 300,
+        "NF": 1,
+        "VAF": 75,
+        "IKF": 0.15,
+        "ISE": 0,
+        "NE": 1.5,
+        "BR": 1,
+        "NR": 1,
+        "ISC": 0,
+        "NC": 2,
+        "RB": 10,
+        "RC": 4,
+        "RE": 0,
+        "CJC": 4.7e-12,
+        "MJC": 0.3,
+        "VJC": 0.75,
+        "FC": 0.5,
+        "CJE": 5e-12,
+        "MJE": 0.33,
+        "VJE": 0.75,
+        "TF": 1.96e-10,
+        "TR": 1e-8,
+        "XTI": 3,
+        "EG": 1.11
+      }
+    },
+    "2N6429A": {
+      "model_type": "NPN",
+      "parameters": {
+        "IS": 6.031e-15,
+        "BF": 559,
+        "NF": 1,
+        "VAF": 996,
+        "IKF": 0.1878,
+        "ISE": 0,
+        "NE": 1.5,
+        "BR": 44,
+        "NR": 1,
+        "ISC": 0,
+        "NC": 2,
+        "RB": 10,
+        "RC": 4,
+        "CJC": 2.136e-11,
+        "MJC": 0.3843,
+        "VJC": 0.75,
+        "FC": 0.5,
+        "CJE": 5.561e-11,
+        "MJE": 0.3834,
+        "VJE": 0.75,
+        "TF": 5.161e-10,
+        "TR": 7.215e-8,
+        "ITF": 0.5,
+        "VTF": 4,
+        "XTF": 6,
+        "XTI": 3,
+        "EG": 1.11,
+        "XTB": 1.5
+      }
+    }
+  },
   "layout": {
     "wires": [
       {
@@ -1162,29 +1406,31 @@
     ],
     "node_markers": [],
     "pin_names": {},
-    "grid_size": 16,
     "viewport": {
       "x": -130.81067383037393,
       "y": 202.74883087820518,
       "zoom": 0.6585080159296692
     },
-    "nameCounters": {
-      "R": 36,
-      "C": 30,
-      "L": 10,
-      "D": 2,
-      "Q": 5,
-      "Y": 1,
-      "D_vcap": 1,
-      "V": 0,
-      "VR": 8,
-      "T": 2,
-      "G": 15,
-      "K": 0,
-      "Wire": 0,
-      "NodeMarker": 0
-    },
-    "wireCounter": 72,
-    "nodeMarkerCounter": 2
+    "_editor": {
+      "grid_size": 16,
+      "counters": {
+        "R": 36,
+        "C": 30,
+        "L": 10,
+        "D": 2,
+        "Q": 5,
+        "Y": 1,
+        "D_vcap": 1,
+        "V": 0,
+        "VR": 8,
+        "T": 2,
+        "G": 15,
+        "K": 0,
+        "Wire": 0,
+        "NodeMarker": 0
+      },
+      "wire_counter": 72,
+      "node_marker_counter": 2
+    }
   }
 }
