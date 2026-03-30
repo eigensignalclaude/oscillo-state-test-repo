@@ -664,7 +664,7 @@
       "c": "net23.a",
       "b": "net28.b",
       "e": "net30.a",
-      "device_ref": "2N5179"
+      "model_ref": "2N5179"
     },
     "C1": {
       "etype": "C",
@@ -775,13 +775,13 @@
       "etype": "D",
       "a": "net11.b",
       "k": "net12.a",
-      "device_ref": "5082-2800-RevB"
+      "model_ref": "5082-2800-RevB"
     },
     "D2": {
       "etype": "D",
       "a": "net12.c",
       "k": "0.b",
-      "device_ref": "5082-2800-RevB"
+      "model_ref": "5082-2800-RevB"
     },
     "C8": {
       "etype": "C",
@@ -806,14 +806,14 @@
       "c": "net3.a",
       "b": "net4.a",
       "e": "net13.a",
-      "device_ref": "2N5179"
+      "model_ref": "2N5179"
     },
     "Q3": {
       "etype": "Q",
       "c": "net4.e",
       "b": "net31.b",
       "e": "net37.a",
-      "device_ref": "2N5179"
+      "model_ref": "2N5179"
     },
     "C10": {
       "etype": "C",
@@ -838,7 +838,7 @@
       "a": "net34.a",
       "k": "net41.a",
       "value": 1e-10,
-      "device_ref": "default_D_vcap"
+      "model_ref": "default"
     },
     "R13": {
       "etype": "R",
@@ -953,7 +953,7 @@
       "c": "net16.a",
       "b": "net20.c",
       "e": "net21.a",
-      "device_ref": "Q9_RF"
+      "model_ref": "Q9_RF"
     },
     "C23": {
       "etype": "C",
@@ -981,7 +981,7 @@
       "c": "net6.c",
       "b": "net5.b",
       "e": "net20.a",
-      "device_ref": "2N6429A"
+      "model_ref": "2N6429A"
     },
     "R31": {
       "etype": "R",
@@ -1347,9 +1347,9 @@
     "wire_counter": 72,
     "node_marker_counter": 2,
     "viewport": {
-      "x": -126.40364682623456,
-      "y": 263.1350011917593,
-      "zoom": 0.5820433988719459
+      "x": -612.1186324895712,
+      "y": 57.20607566178654,
+      "zoom": 1.3981641404654677
     }
   }
 }
