@@ -280,7 +280,7 @@
       "y1": 352,
       "x2": 592,
       "y2": 416,
-      "value": 1e-7,
+      "value": 1e-07,
       "parameters": {},
       "model_ref": null
     },
@@ -302,7 +302,7 @@
       "y1": 416,
       "x2": 592,
       "y2": 480,
-      "value": 3.3e-7,
+      "value": 3.3e-07,
       "parameters": {},
       "model_ref": null
     },
@@ -313,7 +313,7 @@
       "y1": 416,
       "x2": 656,
       "y2": 480,
-      "value": 4.3e-7,
+      "value": 4.3e-07,
       "parameters": {},
       "model_ref": null
     },
@@ -407,7 +407,7 @@
       "y1": 224,
       "x2": 720,
       "y2": 288,
-      "value": 1e-8,
+      "value": 1e-08,
       "parameters": {},
       "model_ref": null
     },
@@ -418,7 +418,7 @@
       "y1": 400,
       "x2": 976,
       "y2": 464,
-      "value": 1e-7,
+      "value": 1e-07,
       "parameters": {},
       "model_ref": null
     },
@@ -577,7 +577,7 @@
       "y1": 480,
       "x2": 400,
       "y2": 480,
-      "value": 1e-7,
+      "value": 1e-07,
       "parameters": {},
       "model_ref": null
     },
@@ -656,7 +656,7 @@
       "y1": 352,
       "x2": 592,
       "y2": 352,
-      "value": 1e-7,
+      "value": 1e-07,
       "parameters": {},
       "model_ref": null
     },
@@ -667,7 +667,7 @@
       "y1": 208,
       "x2": 1104,
       "y2": 208,
-      "value": 1e-7,
+      "value": 1e-07,
       "parameters": {},
       "model_ref": null
     },
@@ -703,8 +703,8 @@
       "value": null,
       "parameters": {
         "turns_ratio": 0.333333,
-        "Lp": 0.000006,
-        "Ls": 6.66667e-7,
+        "Lp": 6e-06,
+        "Ls": 6.66667e-07,
         "k": 0.999,
         "_orientation": "H"
       },
@@ -717,7 +717,7 @@
       "y1": 208,
       "x2": 1296,
       "y2": 160,
-      "value": 1e-7,
+      "value": 1e-07,
       "parameters": {},
       "model_ref": null
     },
@@ -741,7 +741,7 @@
       "y1": 416,
       "x2": 1360,
       "y2": 464,
-      "value": 1e-7,
+      "value": 1e-07,
       "parameters": {},
       "model_ref": null
     },
@@ -863,7 +863,7 @@
       "y1": 208,
       "x2": 1456,
       "y2": 208,
-      "value": 1e-7,
+      "value": 1e-07,
       "parameters": {},
       "model_ref": null
     },
@@ -874,7 +874,7 @@
       "y1": 208,
       "x2": 1520,
       "y2": 272,
-      "value": 50,
+      "value": 60,
       "parameters": {},
       "model_ref": null
     },
