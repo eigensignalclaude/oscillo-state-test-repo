@@ -172,7 +172,7 @@
       "name": "VR1",
       "nodes": [
         "net18",
-        "?"
+        "0"
       ],
       "value": 5.7,
       "parameters": {
@@ -188,7 +188,7 @@
       "name": "VR2",
       "nodes": [
         "net13",
-        "?"
+        "0"
       ],
       "value": 5.7,
       "parameters": {
@@ -204,7 +204,7 @@
       "name": "VR3",
       "nodes": [
         "net1",
-        "?"
+        "0"
       ],
       "value": 12,
       "parameters": {
@@ -220,7 +220,7 @@
       "name": "VR4",
       "nodes": [
         "net32",
-        "?"
+        "0"
       ],
       "value": 6.4,
       "parameters": {
@@ -236,7 +236,7 @@
       "name": "VR5",
       "nodes": [
         "net15",
-        "?"
+        "0"
       ],
       "value": 5.7,
       "parameters": {
@@ -252,7 +252,7 @@
       "name": "VR6",
       "nodes": [
         "net19",
-        "?"
+        "0"
       ],
       "value": 5.7,
       "parameters": {
@@ -268,7 +268,7 @@
       "name": "VR7",
       "nodes": [
         "net26",
-        "?"
+        "0"
       ],
       "value": 0.5,
       "parameters": {
@@ -284,7 +284,7 @@
       "name": "VR8",
       "nodes": [
         "net4",
-        "?"
+        "0"
       ],
       "value": 12,
       "parameters": {
@@ -1170,6 +1170,8 @@
       }
     }
   },
+  "mutual_inductances": [],
+  "initial_conditions": [],
   "layout": {
     "wires": [
       {
