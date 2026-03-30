@@ -78,63 +78,95 @@
         128
       ],
       "b": [
+        848,
+        160
+      ],
+      "c": [
+        1168,
+        176
+      ],
+      "d": [
+        592,
+        256
+      ],
+      "e": [
+        976,
+        256
+      ],
+      "f": [
         1520,
         288
       ],
-      "c": [
+      "g": [
         720,
         304
       ],
-      "d": [
+      "h": [
         784,
         304
       ],
-      "e": [
+      "i": [
         848,
         304
       ],
-      "f": [
+      "j": [
         1424,
         304
       ],
-      "g": [
+      "k": [
+        912,
+        320
+      ],
+      "l": [
+        816,
+        336
+      ],
+      "m": [
         1104,
         368
       ],
-      "h": [
+      "n": [
         1232,
         368
       ],
-      "i": [
+      "o": [
+        320,
+        416
+      ],
+      "p": [
         1168,
         432
       ],
-      "j": [
+      "q": [
         1296,
         432
       ],
-      "k": [
+      "r": [
+        320,
+        480
+      ],
+      "s": [
         976,
         480
       ],
-      "l": [
+      "t": [
         1360,
         480
       ],
-      "m": [
+      "u": [
         528,
         496
       ],
-      "n": [
+      "v": [
         784,
         496
       ],
-      "o": [
+      "w": [
         320,
         544
       ]
     },
-    "net23": {
+    "net18": {
       "a": [
         720,
         336
@@ -144,85 +176,43 @@
         336
       ]
     },
-    "net24": {
-      "a": [
-        816,
-        336
-      ]
-    },
-    "net17": {
+    "net13": {
       "a": [
         592,
         288
-      ]
-    },
-    "net14": {
-      "a": [
-        592,
-        256
-      ]
-    },
-    "net3": {
-      "a": [
-        848,
-        192
       ]
     },
     "net1": {
       "a": [
         848,
-        160
+        192
       ]
     },
-    "net40": {
+    "net32": {
       "a": [
         336,
         480
-      ]
-    },
-    "net39": {
-      "a": [
-        320,
-        480
-      ]
-    },
-    "net19": {
-      "a": [
-        976,
-        288
       ]
     },
     "net15": {
       "a": [
         976,
-        256
+        288
       ]
     },
-    "net25": {
+    "net19": {
       "a": [
         912,
         336
       ]
     },
-    "net22": {
-      "a": [
-        912,
-        320
-      ]
-    },
-    "net33": {
+    "net26": {
       "a": [
         336,
         416
       ]
     },
-    "net32": {
-      "a": [
-        320,
-        416
-      ]
-    },
-    "net6": {
+    "net4": {
       "a": [
         1168,
         208
@@ -236,13 +226,7 @@
         256
       ]
     },
-    "net2": {
-      "a": [
-        1168,
-        176
-      ]
-    },
-    "net28": {
+    "net22": {
       "a": [
         592,
         352
@@ -252,7 +236,7 @@
         352
       ]
     },
-    "net30": {
+    "net24": {
       "a": [
         720,
         368
@@ -278,25 +262,25 @@
         480
       ]
     },
-    "net35": {
+    "net28": {
       "a": [
         592,
         416
       ]
     },
-    "net36": {
+    "net29": {
       "a": [
         656,
         416
       ]
     },
-    "net18": {
+    "net14": {
       "a": [
         656,
         288
       ]
     },
-    "net27": {
+    "net21": {
       "a": [
         528,
         352
@@ -306,7 +290,7 @@
         416
       ]
     },
-    "net26": {
+    "net20": {
       "a": [
         464,
         352
@@ -316,7 +300,7 @@
         416
       ]
     },
-    "net37": {
+    "net30": {
       "a": [
         1040,
         416
@@ -334,13 +318,13 @@
         544
       ]
     },
-    "net42": {
+    "net34": {
       "a": [
         400,
         544
       ]
     },
-    "net11": {
+    "net9": {
       "a": [
         720,
         224
@@ -350,7 +334,7 @@
         224
       ]
     },
-    "net31": {
+    "net25": {
       "a": [
         912,
         400
@@ -360,13 +344,13 @@
         400
       ]
     },
-    "net10": {
+    "net8": {
       "a": [
         656,
         224
       ]
     },
-    "net12": {
+    "net10": {
       "a": [
         768,
         224
@@ -380,13 +364,13 @@
         240
       ]
     },
-    "net13": {
+    "net11": {
       "a": [
         848,
         224
       ]
     },
-    "net4": {
+    "net2": {
       "a": [
         1040,
         208
@@ -408,19 +392,19 @@
         384
       ]
     },
-    "net34": {
+    "net27": {
       "a": [
         400,
         416
       ]
     },
-    "net41": {
+    "net33": {
       "a": [
         400,
         480
       ]
     },
-    "net5": {
+    "net3": {
       "a": [
         1104,
         208
@@ -430,7 +414,7 @@
         272
       ]
     },
-    "net7": {
+    "net5": {
       "a": [
         1296,
         208
@@ -444,7 +428,7 @@
         208
       ]
     },
-    "net16": {
+    "net12": {
       "a": [
         1360,
         272
@@ -454,7 +438,7 @@
         272
       ]
     },
-    "net8": {
+    "net6": {
       "a": [
         1424,
         208
@@ -464,13 +448,13 @@
         208
       ]
     },
-    "net38": {
+    "net31": {
       "a": [
         1360,
         416
       ]
     },
-    "net21": {
+    "net17": {
       "a": [
         1360,
         304
@@ -484,7 +468,7 @@
         352
       ]
     },
-    "net20": {
+    "net16": {
       "a": [
         1168,
         288
@@ -498,13 +482,13 @@
         288
       ]
     },
-    "net29": {
+    "net23": {
       "a": [
         1168,
         352
       ]
     },
-    "net9": {
+    "net7": {
       "a": [
         1520,
         208
@@ -515,42 +499,42 @@
     "GND1": {
       "etype": "G",
       "p": "0.l",
-      "n": "?.n"
+      "n": "?.v"
     },
     "GND2": {
       "etype": "G",
       "p": "0.p",
-      "n": "?.m"
+      "n": "?.u"
     },
     "GND3": {
       "etype": "G",
       "p": "0.q",
-      "n": "?.o"
+      "n": "?.w"
     },
     "GND4": {
       "etype": "G",
       "p": "0.e",
-      "n": "?.c"
+      "n": "?.g"
     },
     "GND5": {
       "etype": "G",
       "p": "0.n",
-      "n": "?.k"
+      "n": "?.s"
     },
     "GND6": {
       "etype": "G",
       "p": "0.f",
-      "n": "?.d"
+      "n": "?.h"
     },
     "GND7": {
       "etype": "G",
       "p": "0.g",
-      "n": "?.e"
+      "n": "?.i"
     },
     "GND8": {
       "etype": "G",
       "p": "0.c",
-      "n": "?.f"
+      "n": "?.j"
     },
     "GND9": {
       "etype": "G",
@@ -560,121 +544,121 @@
     "GND10": {
       "etype": "G",
       "p": "0.k",
-      "n": "?.j"
+      "n": "?.q"
     },
     "GND11": {
       "etype": "G",
       "p": "0.o",
-      "n": "?.l"
+      "n": "?.t"
     },
     "GND12": {
       "etype": "G",
       "p": "0.i",
-      "n": "?.h"
+      "n": "?.n"
     },
     "GND13": {
       "etype": "G",
       "p": "0.j",
-      "n": "?.i"
+      "n": "?.p"
     },
     "GND14": {
       "etype": "G",
       "p": "0.h",
-      "n": "?.g"
+      "n": "?.m"
     },
     "GND15": {
       "etype": "G",
       "p": "0.d",
-      "n": "?.b"
+      "n": "?.f"
     },
     "VR1": {
       "etype": "VR",
-      "p": "net23.b",
-      "n": "net24.a",
+      "p": "net18.b",
+      "n": "?.l",
       "value": 5.7
     },
     "VR2": {
       "etype": "VR",
-      "p": "net17.a",
-      "n": "net14.a",
+      "p": "net13.a",
+      "n": "?.d",
       "value": 5.7
     },
     "VR3": {
       "etype": "VR",
-      "p": "net3.a",
-      "n": "net1.a",
+      "p": "net1.a",
+      "n": "?.b",
       "value": 12
     },
     "VR4": {
       "etype": "VR",
-      "p": "net40.a",
-      "n": "net39.a",
+      "p": "net32.a",
+      "n": "?.r",
       "value": 6.4
     },
     "VR5": {
       "etype": "VR",
-      "p": "net19.a",
-      "n": "net15.a",
+      "p": "net15.a",
+      "n": "?.e",
       "value": 5.7
     },
     "VR6": {
       "etype": "VR",
-      "p": "net25.a",
-      "n": "net22.a",
+      "p": "net19.a",
+      "n": "?.k",
       "value": 5.7
     },
     "VR7": {
       "etype": "VR",
-      "p": "net33.a",
-      "n": "net32.a",
+      "p": "net26.a",
+      "n": "?.o",
       "value": 0.5
     },
     "VR8": {
       "etype": "VR",
-      "p": "net6.a",
-      "n": "net2.a",
+      "p": "net4.a",
+      "n": "?.c",
       "value": 12
     },
     "Q1": {
       "etype": "Q",
-      "c": "net23.a",
-      "b": "net28.b",
-      "e": "net30.a",
-      "model_ref": "2N5179"
+      "c": "net18.a",
+      "b": "net22.b",
+      "e": "net24.a",
+      "device_ref": "2N5179"
     },
     "C1": {
       "etype": "C",
-      "p": "net28.a",
-      "n": "net35.a",
-      "value": 1e-07
+      "p": "net22.a",
+      "n": "net28.a",
+      "value": 1e-7
     },
     "C2": {
       "etype": "C",
-      "p": "net28.b",
-      "n": "net36.a",
+      "p": "net22.b",
+      "n": "net29.a",
       "value": 5.1e-10
     },
     "L1": {
       "etype": "L",
-      "p": "net35.a",
-      "n": "net30.d",
-      "value": 3.3e-07
+      "p": "net28.a",
+      "n": "net24.d",
+      "value": 3.3e-7
     },
     "L2": {
       "etype": "L",
-      "p": "net36.a",
-      "n": "net30.e",
-      "value": 4.3e-07
+      "p": "net29.a",
+      "n": "net24.e",
+      "value": 4.3e-7
     },
     "C3": {
       "etype": "C",
-      "p": "net23.b",
-      "n": "net30.c",
+      "p": "net18.b",
+      "n": "net24.c",
       "value": 6.2e-11
     },
     "L3": {
       "etype": "L",
-      "p": "net30.c",
+      "p": "net24.c",
       "n": "0.l",
       "value": 0.0001,
       "parameters": {
@@ -683,8 +667,8 @@
     },
     "L4": {
       "etype": "L",
-      "p": "net18.a",
-      "n": "net28.b",
+      "p": "net14.a",
+      "n": "net22.b",
       "value": 0.00022,
       "parameters": {
         "RS": 6.8
@@ -692,20 +676,20 @@
     },
     "R1": {
       "etype": "R",
-      "p": "net27.b",
+      "p": "net21.b",
       "n": "0.p",
       "value": 10000000
     },
     "R2": {
       "etype": "R",
-      "p": "net26.b",
-      "n": "net27.b",
+      "p": "net20.b",
+      "n": "net21.b",
       "value": 10000000
     },
     "L6": {
       "etype": "L",
-      "p": "net37.c",
-      "n": "net42.a",
+      "p": "net30.c",
+      "n": "net34.a",
       "value": 0.00022,
       "parameters": {
         "RS": 6.8
@@ -713,125 +697,125 @@
     },
     "R8": {
       "etype": "R",
-      "p": "net42.a",
+      "p": "net34.a",
       "n": "0.q",
       "value": 681
     },
     "C6": {
       "etype": "C",
-      "p": "net11.a",
+      "p": "net9.a",
       "n": "0.e",
-      "value": 1e-08
+      "value": 1e-8
     },
     "C7": {
       "etype": "C",
-      "p": "net31.b",
+      "p": "net25.b",
       "n": "0.n",
-      "value": 1e-07
+      "value": 1e-7
     },
     "R9": {
       "etype": "R",
-      "p": "net17.a",
-      "n": "net18.a",
+      "p": "net13.a",
+      "n": "net14.a",
       "value": 31600
     },
     "R10": {
       "etype": "R",
-      "p": "net10.a",
-      "n": "net18.a",
+      "p": "net8.a",
+      "n": "net14.a",
       "value": 13300
     },
     "R11": {
       "etype": "R",
-      "p": "net11.a",
-      "n": "net10.a",
+      "p": "net9.a",
+      "n": "net8.a",
       "value": 5000
     },
     "D1": {
       "etype": "D",
-      "a": "net11.b",
-      "k": "net12.a",
-      "model_ref": "5082-2800-RevB"
+      "a": "net9.b",
+      "k": "net10.a",
+      "device_ref": "5082-2800-RevB"
     },
     "D2": {
       "etype": "D",
-      "a": "net12.c",
+      "a": "net10.c",
       "k": "0.b",
-      "model_ref": "5082-2800-RevB"
+      "device_ref": "5082-2800-RevB"
     },
     "C8": {
       "etype": "C",
-      "p": "net13.a",
-      "n": "net12.b",
+      "p": "net11.a",
+      "n": "net10.b",
       "value": 1.2e-10
     },
     "R12": {
       "etype": "R",
-      "p": "net13.a",
+      "p": "net11.a",
       "n": "0.g",
       "value": 2150
     },
     "C9": {
       "etype": "C",
-      "p": "net4.c",
-      "n": "net31.b",
+      "p": "net2.c",
+      "n": "net25.b",
       "value": 1e-11
     },
     "Q2": {
       "etype": "Q",
-      "c": "net3.a",
-      "b": "net4.a",
-      "e": "net13.a",
-      "model_ref": "2N5179"
+      "c": "net1.a",
+      "b": "net2.a",
+      "e": "net11.a",
+      "device_ref": "2N5179"
     },
     "Q3": {
       "etype": "Q",
-      "c": "net4.e",
-      "b": "net31.b",
-      "e": "net37.a",
-      "model_ref": "2N5179"
+      "c": "net2.e",
+      "b": "net25.b",
+      "e": "net30.a",
+      "device_ref": "2N5179"
     },
     "C10": {
       "etype": "C",
-      "p": "net37.b",
-      "n": "net26.b",
+      "p": "net30.b",
+      "n": "net20.b",
       "value": 1.5e-11
     },
     "C11": {
       "etype": "C",
-      "p": "net26.b",
-      "n": "net34.a",
+      "p": "net20.b",
+      "n": "net27.a",
       "value": 1.5e-11
     },
     "C12": {
       "etype": "C",
-      "p": "net37.b",
-      "n": "net41.a",
-      "value": 1e-07
+      "p": "net30.b",
+      "n": "net33.a",
+      "value": 1e-7
     },
     "DV1": {
       "etype": "D_vcap",
-      "a": "net34.a",
-      "k": "net41.a",
+      "a": "net27.a",
+      "k": "net33.a",
       "value": 1e-10,
-      "model_ref": "default"
+      "device_ref": "default"
     },
     "R13": {
       "etype": "R",
-      "p": "net34.a",
-      "n": "net33.a",
+      "p": "net27.a",
+      "n": "net26.a",
       "value": 100000
     },
     "R14": {
       "etype": "R",
-      "p": "net41.a",
-      "n": "net40.a",
+      "p": "net33.a",
+      "n": "net32.a",
       "value": 100000
     },
     "L7": {
       "etype": "L",
-      "p": "net19.a",
-      "n": "net4.c",
+      "p": "net15.a",
+      "n": "net2.c",
       "value": 0.00022,
       "parameters": {
         "RS": 6.8
@@ -840,61 +824,61 @@
     "R15": {
       "etype": "R",
       "p": "0.m",
-      "n": "net31.a",
+      "n": "net25.a",
       "value": 6810
     },
     "R16": {
       "etype": "R",
-      "p": "net31.a",
-      "n": "net25.a",
+      "p": "net25.a",
+      "n": "net19.a",
       "value": 6810
     },
     "C13": {
       "etype": "C",
-      "p": "net27.a",
-      "n": "net28.a",
-      "value": 1e-07
+      "p": "net21.a",
+      "n": "net22.a",
+      "value": 1e-7
     },
     "C15": {
       "etype": "C",
-      "p": "net4.a",
-      "n": "net5.a",
-      "value": 1e-07
+      "p": "net2.a",
+      "n": "net3.a",
+      "value": 1e-7
     },
     "R22": {
       "etype": "R",
-      "p": "net4.b",
-      "n": "net5.b",
+      "p": "net2.b",
+      "n": "net3.b",
       "value": 68100
     },
     "R23": {
       "etype": "R",
-      "p": "net7.b",
-      "n": "net16.a",
+      "p": "net5.b",
+      "n": "net12.a",
       "value": 511
     },
     "T1": {
       "etype": "T",
-      "p1": "net7.b",
-      "p2": "net8.a",
-      "s1": "net7.b",
-      "s2": "net8.a",
+      "p1": "net5.b",
+      "p2": "net6.a",
+      "s1": "net5.b",
+      "s2": "net6.a",
       "parameters": {
-        "L_primary": 6e-06,
+        "L_primary": 0.000006,
         "ratio": 0.333333,
         "coupling": 0.999
       }
     },
     "C19": {
       "etype": "C",
-      "p": "net7.a",
+      "p": "net5.a",
       "n": "0.a",
-      "value": 1e-07
+      "value": 1e-7
     },
     "L9": {
       "etype": "L",
-      "p": "net7.a",
-      "n": "net6.b",
+      "p": "net5.a",
+      "n": "net4.b",
       "value": 0.00022,
       "parameters": {
         "RS": 6.8
@@ -902,51 +886,51 @@
     },
     "C20": {
       "etype": "C",
-      "p": "net38.a",
+      "p": "net31.a",
       "n": "0.o",
-      "value": 1e-07
+      "value": 1e-7
     },
     "R24": {
       "etype": "R",
-      "p": "net21.c",
-      "n": "net38.a",
+      "p": "net17.c",
+      "n": "net31.a",
       "value": 681
     },
     "R25": {
       "etype": "R",
-      "p": "net21.b",
+      "p": "net17.b",
       "n": "0.k",
       "value": 133
     },
     "C21": {
       "etype": "C",
-      "p": "net20.c",
-      "n": "net21.b",
+      "p": "net16.c",
+      "n": "net17.b",
       "value": 1.2e-10
     },
     "Q4": {
       "etype": "Q",
-      "c": "net16.a",
-      "b": "net20.c",
-      "e": "net21.a",
-      "model_ref": "Q9_RF"
+      "c": "net12.a",
+      "b": "net16.c",
+      "e": "net17.a",
+      "device_ref": "Q9_RF"
     },
     "C23": {
       "etype": "C",
-      "p": "net20.b",
+      "p": "net16.b",
       "n": "0.i",
       "value": 1e-11
     },
     "R28": {
       "etype": "R",
-      "p": "net29.a",
+      "p": "net23.a",
       "n": "0.j",
       "value": 909
     },
     "L10": {
       "etype": "L",
-      "p": "net20.a",
-      "n": "net29.a",
+      "p": "net16.a",
+      "n": "net23.a",
       "value": 0.00022,
       "parameters": {
         "RS": 6.8
@@ -954,34 +938,34 @@
     },
     "Q5": {
       "etype": "Q",
-      "c": "net6.c",
-      "b": "net5.b",
-      "e": "net20.a",
-      "model_ref": "2N6429A"
+      "c": "net4.c",
+      "b": "net3.b",
+      "e": "net16.a",
+      "device_ref": "2N6429A"
     },
     "R31": {
       "etype": "R",
-      "p": "net5.b",
+      "p": "net3.b",
       "n": "0.h",
       "value": 100000
     },
     "C25": {
       "etype": "C",
-      "p": "net9.a",
-      "n": "net8.b",
-      "value": 1e-07
+      "p": "net7.a",
+      "n": "net6.b",
+      "value": 1e-7
     },
     "R32": {
       "etype": "R",
-      "p": "net9.a",
+      "p": "net7.a",
       "n": "0.d",
       "value": 50
     },
     "T2": {
       "etype": "T",
-      "p1": "net7.c",
-      "p2": "net16.b",
-      "s1": "net8.a",
+      "p1": "net5.c",
+      "p2": "net12.b",
+      "s1": "net6.a",
       "s2": "0.c",
       "parameters": {
         "L_primary": 0.001,
@@ -991,8 +975,8 @@
     },
     "Y1": {
       "etype": "Y",
-      "p": "net26.a",
-      "n": "net27.a",
+      "p": "net20.a",
+      "n": "net21.a",
       "parameters": {
         "C0": 2.8e-12,
         "arms": [
@@ -1015,73 +999,73 @@
   "wires": [
     {
       "id": "w1",
-      "from": "net28.a",
-      "to": "net28.b"
+      "from": "net22.a",
+      "to": "net22.b"
     },
     {
       "id": "w2",
-      "from": "net30.d",
-      "to": "net30.e"
+      "from": "net24.d",
+      "to": "net24.e"
     },
     {
       "id": "w3",
-      "from": "net30.e",
-      "to": "net30.f"
+      "from": "net24.e",
+      "to": "net24.f"
     },
     {
       "id": "w4",
-      "from": "net30.f",
-      "to": "net30.b"
+      "from": "net24.f",
+      "to": "net24.b"
     },
     {
       "id": "w5",
-      "from": "net30.a",
-      "to": "net30.b"
+      "from": "net24.a",
+      "to": "net24.b"
     },
     {
       "id": "w7",
+      "from": "net24.b",
+      "to": "net24.c"
+    },
+    {
+      "id": "w10",
+      "from": "net20.a",
+      "to": "net20.b"
+    },
+    {
+      "id": "w11",
+      "from": "net2.d",
+      "to": "net2.c"
+    },
+    {
+      "id": "w12",
+      "from": "net21.a",
+      "to": "net21.b"
+    },
+    {
+      "id": "w14",
+      "from": "net25.a",
+      "to": "net25.b"
+    },
+    {
+      "id": "w15",
       "from": "net30.b",
       "to": "net30.c"
     },
     {
-      "id": "w10",
-      "from": "net26.a",
-      "to": "net26.b"
-    },
-    {
-      "id": "w11",
-      "from": "net4.d",
-      "to": "net4.c"
-    },
-    {
-      "id": "w12",
-      "from": "net27.a",
-      "to": "net27.b"
-    },
-    {
-      "id": "w14",
-      "from": "net31.a",
-      "to": "net31.b"
-    },
-    {
-      "id": "w15",
-      "from": "net37.b",
-      "to": "net37.c"
-    },
-    {
       "id": "w16",
-      "from": "net37.c",
-      "to": "net37.d"
+      "from": "net30.c",
+      "to": "net30.d"
     },
     {
       "id": "w17",
-      "from": "net37.d",
-      "to": "net37.a"
+      "from": "net30.d",
+      "to": "net30.a"
     },
     {
       "id": "w19",
-      "from": "net4.b",
-      "to": "net4.d"
+      "from": "net2.b",
+      "to": "net2.d"
     },
     {
       "id": "w20",
@@ -1090,48 +1074,48 @@
     },
     {
       "id": "w23",
-      "from": "net4.a",
-      "to": "net4.b"
+      "from": "net2.a",
+      "to": "net2.b"
     },
     {
       "id": "w24",
+      "from": "net3.a",
+      "to": "net3.b"
+    },
+    {
+      "id": "w28",
       "from": "net5.a",
       "to": "net5.b"
     },
     {
-      "id": "w28",
-      "from": "net7.a",
-      "to": "net7.b"
-    },
-    {
       "id": "w30",
-      "from": "net21.a",
-      "to": "net21.c"
+      "from": "net17.a",
+      "to": "net17.c"
     },
     {
       "id": "w31",
-      "from": "net21.b",
-      "to": "net21.c"
+      "from": "net17.b",
+      "to": "net17.c"
     },
     {
       "id": "w32",
-      "from": "net20.b",
-      "to": "net20.c"
+      "from": "net16.b",
+      "to": "net16.c"
     },
     {
       "id": "w34",
-      "from": "net20.a",
-      "to": "net20.b"
+      "from": "net16.a",
+      "to": "net16.b"
     },
     {
       "id": "w40",
-      "from": "net11.a",
-      "to": "net11.b"
+      "from": "net9.a",
+      "to": "net9.b"
     },
     {
       "id": "w43",
-      "from": "net12.a",
-      "to": "net12.b"
+      "from": "net10.a",
+      "to": "net10.b"
     },
     {
       "id": "w46",
@@ -1140,43 +1124,43 @@
     },
     {
       "id": "w47",
-      "from": "net12.c",
-      "to": "net12.b"
+      "from": "net10.c",
+      "to": "net10.b"
     },
     {
       "id": "w52",
-      "from": "net7.b",
-      "to": "net7.c"
+      "from": "net5.b",
+      "to": "net5.c"
     },
     {
       "id": "w53",
-      "from": "net16.a",
-      "to": "net16.b"
+      "from": "net12.a",
+      "to": "net12.b"
     },
     {
       "id": "w55",
-      "from": "net8.b",
-      "to": "net8.a"
-    },
-    {
-      "id": "w62",
-      "from": "net4.d",
-      "to": "net4.e"
-    },
-    {
-      "id": "w63",
-      "from": "net6.c",
+      "from": "net6.b",
       "to": "net6.a"
     },
     {
+      "id": "w62",
+      "from": "net2.d",
+      "to": "net2.e"
+    },
+    {
+      "id": "w63",
+      "from": "net4.c",
+      "to": "net4.a"
+    },
+    {
       "id": "w64",
-      "from": "net23.a",
-      "to": "net23.b"
+      "from": "net18.a",
+      "to": "net18.b"
     },
     {
       "id": "w68",
-      "from": "net6.a",
-      "to": "net6.b"
+      "from": "net4.a",
+      "to": "net4.b"
     }
   ],
   "models": {
@@ -1204,7 +1188,7 @@
         "MJE": 0.3453,
         "VJE": 0.75,
         "TF": 1.411e-10,
-        "TR": 1.588e-09,
+        "TR": 1.588e-9,
         "ITF": 0.27,
         "VTF": 10,
         "XTF": 30,
@@ -1216,7 +1200,7 @@
     "5082-2800-RevB": {
       "model_type": "D",
       "parameters": {
-        "IS": 2.2e-09,
+        "IS": 2.2e-9,
         "RS": 25,
         "N": 1.08,
         "BV": 75,
@@ -1260,7 +1244,7 @@
         "MJE": 0.33,
         "VJE": 0.75,
         "TF": 1.96e-10,
-        "TR": 1e-08,
+        "TR": 1e-8,
         "XTI": 3,
         "EG": 1.11
       }
@@ -1289,7 +1273,7 @@
         "MJE": 0.3834,
         "VJE": 0.75,
         "TF": 5.161e-10,
-        "TR": 7.215e-08,
+        "TR": 7.215e-8,
         "ITF": 0.5,
         "VTF": 4,
         "XTF": 6,
@@ -1323,9 +1307,9 @@
     "wire_counter": 72,
     "node_marker_counter": 2,
     "viewport": {
-      "x": -612.1186324895712,
-      "y": 57.20607566178654,
-      "zoom": 1.3981641404654677
+      "x": -132.17121880503055,
+      "y": 367.96914064324096,
+      "zoom": 0.5819398359980618
     }
   }
 }
