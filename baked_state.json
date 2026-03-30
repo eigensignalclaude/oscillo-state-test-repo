@@ -588,76 +588,52 @@
       "n": "?.b"
     },
     "VR1": {
-      "etype": "V",
+      "etype": "VR",
       "p": "net23.b",
       "n": "net24.a",
-      "value": 5.7,
-      "parameters": {
-        "rail": true
-      }
+      "value": 5.7
     },
     "VR2": {
-      "etype": "V",
+      "etype": "VR",
       "p": "net17.a",
       "n": "net14.a",
-      "value": 5.7,
-      "parameters": {
-        "rail": true
-      }
+      "value": 5.7
     },
     "VR3": {
-      "etype": "V",
+      "etype": "VR",
       "p": "net3.a",
       "n": "net1.a",
-      "value": 12,
-      "parameters": {
-        "rail": true
-      }
+      "value": 12
     },
     "VR4": {
-      "etype": "V",
+      "etype": "VR",
       "p": "net40.a",
       "n": "net39.a",
-      "value": 6.4,
-      "parameters": {
-        "rail": true
-      }
+      "value": 6.4
     },
     "VR5": {
-      "etype": "V",
+      "etype": "VR",
       "p": "net19.a",
       "n": "net15.a",
-      "value": 5.7,
-      "parameters": {
-        "rail": true
-      }
+      "value": 5.7
     },
     "VR6": {
-      "etype": "V",
+      "etype": "VR",
       "p": "net25.a",
       "n": "net22.a",
-      "value": 5.7,
-      "parameters": {
-        "rail": true
-      }
+      "value": 5.7
     },
     "VR7": {
-      "etype": "V",
+      "etype": "VR",
       "p": "net33.a",
       "n": "net32.a",
-      "value": 0.5,
-      "parameters": {
-        "rail": true
-      }
+      "value": 0.5
     },
     "VR8": {
-      "etype": "V",
+      "etype": "VR",
       "p": "net6.a",
       "n": "net2.a",
-      "value": 12,
-      "parameters": {
-        "rail": true
-      }
+      "value": 12
     },
     "Q1": {
       "etype": "Q",
@@ -670,7 +646,7 @@
       "etype": "C",
       "p": "net28.a",
       "n": "net35.a",
-      "value": 1e-7
+      "value": 1e-07
     },
     "C2": {
       "etype": "C",
@@ -682,13 +658,13 @@
       "etype": "L",
       "p": "net35.a",
       "n": "net30.d",
-      "value": 3.3e-7
+      "value": 3.3e-07
     },
     "L2": {
       "etype": "L",
       "p": "net36.a",
       "n": "net30.e",
-      "value": 4.3e-7
+      "value": 4.3e-07
     },
     "C3": {
       "etype": "C",
@@ -745,13 +721,13 @@
       "etype": "C",
       "p": "net11.a",
       "n": "0.e",
-      "value": 1e-8
+      "value": 1e-08
     },
     "C7": {
       "etype": "C",
       "p": "net31.b",
       "n": "0.n",
-      "value": 1e-7
+      "value": 1e-07
     },
     "R9": {
       "etype": "R",
@@ -831,7 +807,7 @@
       "etype": "C",
       "p": "net37.b",
       "n": "net41.a",
-      "value": 1e-7
+      "value": 1e-07
     },
     "DV1": {
       "etype": "D_vcap",
@@ -877,13 +853,13 @@
       "etype": "C",
       "p": "net27.a",
       "n": "net28.a",
-      "value": 1e-7
+      "value": 1e-07
     },
     "C15": {
       "etype": "C",
       "p": "net4.a",
       "n": "net5.a",
-      "value": 1e-7
+      "value": 1e-07
     },
     "R22": {
       "etype": "R",
@@ -904,7 +880,7 @@
       "s1": "net7.b",
       "s2": "net8.a",
       "parameters": {
-        "L_primary": 0.000006,
+        "L_primary": 6e-06,
         "ratio": 0.333333,
         "coupling": 0.999
       }
@@ -913,7 +889,7 @@
       "etype": "C",
       "p": "net7.a",
       "n": "0.a",
-      "value": 1e-7
+      "value": 1e-07
     },
     "L9": {
       "etype": "L",
@@ -928,7 +904,7 @@
       "etype": "C",
       "p": "net38.a",
       "n": "0.o",
-      "value": 1e-7
+      "value": 1e-07
     },
     "R24": {
       "etype": "R",
@@ -993,7 +969,7 @@
       "etype": "C",
       "p": "net9.a",
       "n": "net8.b",
-      "value": 1e-7
+      "value": 1e-07
     },
     "R32": {
       "etype": "R",
@@ -1228,7 +1204,7 @@
         "MJE": 0.3453,
         "VJE": 0.75,
         "TF": 1.411e-10,
-        "TR": 1.588e-9,
+        "TR": 1.588e-09,
         "ITF": 0.27,
         "VTF": 10,
         "XTF": 30,
@@ -1240,7 +1216,7 @@
     "5082-2800-RevB": {
       "model_type": "D",
       "parameters": {
-        "IS": 2.2e-9,
+        "IS": 2.2e-09,
         "RS": 25,
         "N": 1.08,
         "BV": 75,
@@ -1284,7 +1260,7 @@
         "MJE": 0.33,
         "VJE": 0.75,
         "TF": 1.96e-10,
-        "TR": 1e-8,
+        "TR": 1e-08,
         "XTI": 3,
         "EG": 1.11
       }
@@ -1313,7 +1289,7 @@
         "MJE": 0.3834,
         "VJE": 0.75,
         "TF": 5.161e-10,
-        "TR": 7.215e-8,
+        "TR": 7.215e-08,
         "ITF": 0.5,
         "VTF": 4,
         "XTF": 6,
