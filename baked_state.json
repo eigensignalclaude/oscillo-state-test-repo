@@ -1213,12 +1213,6 @@
         "TT": 1e-10
       }
     },
-    "default": {
-      "model_type": "D",
-      "parameters": {
-        "CJO": 1e-10
-      }
-    },
     "Q9_RF": {
       "model_type": "NPN",
       "parameters": {
