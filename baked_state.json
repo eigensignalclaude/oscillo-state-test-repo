@@ -630,7 +630,7 @@
       "etype": "C",
       "p": "net22.a",
       "n": "net28.a",
-      "value": 1e-7
+      "value": 1e-07
     },
     "C2": {
       "etype": "C",
@@ -642,13 +642,13 @@
       "etype": "L",
       "p": "net28.a",
       "n": "net24.d",
-      "value": 3.3e-7
+      "value": 3.3e-07
     },
     "L2": {
       "etype": "L",
       "p": "net29.a",
       "n": "net24.e",
-      "value": 4.3e-7
+      "value": 4.3e-07
     },
     "C3": {
       "etype": "C",
@@ -705,13 +705,13 @@
       "etype": "C",
       "p": "net9.a",
       "n": "0.e",
-      "value": 1e-8
+      "value": 1e-08
     },
     "C7": {
       "etype": "C",
       "p": "net25.b",
       "n": "0.n",
-      "value": 1e-7
+      "value": 1e-07
     },
     "R9": {
       "etype": "R",
@@ -791,7 +791,7 @@
       "etype": "C",
       "p": "net30.b",
       "n": "net33.a",
-      "value": 1e-7
+      "value": 1e-07
     },
     "DV1": {
       "etype": "D_vcap",
@@ -837,13 +837,13 @@
       "etype": "C",
       "p": "net21.a",
       "n": "net22.a",
-      "value": 1e-7
+      "value": 1e-07
     },
     "C15": {
       "etype": "C",
       "p": "net2.a",
       "n": "net3.a",
-      "value": 1e-7
+      "value": 1e-07
     },
     "R22": {
       "etype": "R",
@@ -857,23 +857,11 @@
       "n": "net12.a",
       "value": 511
     },
-    "T1": {
-      "etype": "T",
-      "p1": "net5.b",
-      "p2": "net6.a",
-      "s1": "net5.b",
-      "s2": "net6.a",
-      "parameters": {
-        "L_primary": 0.000006,
-        "ratio": 0.333333,
-        "coupling": 0.999
-      }
-    },
     "C19": {
       "etype": "C",
       "p": "net5.a",
       "n": "0.a",
-      "value": 1e-7
+      "value": 1e-07
     },
     "L9": {
       "etype": "L",
@@ -888,7 +876,7 @@
       "etype": "C",
       "p": "net31.a",
       "n": "0.o",
-      "value": 1e-7
+      "value": 1e-07
     },
     "R24": {
       "etype": "R",
@@ -953,7 +941,7 @@
       "etype": "C",
       "p": "net7.a",
       "n": "net6.b",
-      "value": 1e-7
+      "value": 1e-07
     },
     "R32": {
       "etype": "R",
@@ -1188,7 +1176,7 @@
         "MJE": 0.3453,
         "VJE": 0.75,
         "TF": 1.411e-10,
-        "TR": 1.588e-9,
+        "TR": 1.588e-09,
         "ITF": 0.27,
         "VTF": 10,
         "XTF": 30,
@@ -1200,7 +1188,7 @@
     "5082-2800-RevB": {
       "model_type": "D",
       "parameters": {
-        "IS": 2.2e-9,
+        "IS": 2.2e-09,
         "RS": 25,
         "N": 1.08,
         "BV": 75,
@@ -1238,7 +1226,7 @@
         "MJE": 0.33,
         "VJE": 0.75,
         "TF": 1.96e-10,
-        "TR": 1e-8,
+        "TR": 1e-08,
         "XTI": 3,
         "EG": 1.11
       }
@@ -1267,7 +1255,7 @@
         "MJE": 0.3834,
         "VJE": 0.75,
         "TF": 5.161e-10,
-        "TR": 7.215e-8,
+        "TR": 7.215e-08,
         "ITF": 0.5,
         "VTF": 4,
         "XTF": 6,
