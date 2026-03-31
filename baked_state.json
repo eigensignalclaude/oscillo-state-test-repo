@@ -626,37 +626,37 @@
       "e": "net24.a",
       "device_ref": "2N5179"
     },
-    "C1": {
+    "C5": {
       "etype": "C",
       "p": "net22.a",
       "n": "net28.a",
       "value": 1e-7
     },
-    "C2": {
+    "C6": {
       "etype": "C",
       "p": "net22.b",
       "n": "net29.a",
       "value": 5.1e-10
     },
-    "L1": {
+    "L2": {
       "etype": "L",
       "p": "net28.a",
       "n": "net24.d",
       "value": 3.3e-7
     },
-    "L2": {
+    "L3": {
       "etype": "L",
       "p": "net29.a",
       "n": "net24.e",
       "value": 4.3e-7
     },
-    "C3": {
+    "C8": {
       "etype": "C",
       "p": "net18.b",
       "n": "net24.c",
       "value": 6.2e-11
     },
-    "L3": {
+    "L4": {
       "etype": "L",
       "p": "net24.c",
       "n": "0.l",
@@ -665,7 +665,7 @@
         "RS": 4.1
       }
     },
-    "L4": {
+    "L1": {
       "etype": "L",
       "p": "net14.a",
       "n": "net22.b",
@@ -674,19 +674,19 @@
         "RS": 6.8
       }
     },
-    "R1": {
+    "R4": {
       "etype": "R",
       "p": "net21.b",
       "n": "0.p",
       "value": 10000000
     },
-    "R2": {
+    "R3": {
       "etype": "R",
       "p": "net20.b",
       "n": "net21.b",
       "value": 10000000
     },
-    "L6": {
+    "L5": {
       "etype": "L",
       "p": "net30.c",
       "n": "net34.a",
@@ -701,118 +701,118 @@
       "n": "0.q",
       "value": 681
     },
-    "C6": {
+    "C13": {
       "etype": "C",
       "p": "net9.a",
       "n": "0.e",
       "value": 1e-8
     },
-    "C7": {
+    "C9": {
       "etype": "C",
       "p": "net25.b",
       "n": "0.n",
       "value": 1e-7
     },
-    "R9": {
+    "R7": {
       "etype": "R",
       "p": "net13.a",
       "n": "net14.a",
       "value": 31600
     },
-    "R10": {
+    "R5": {
       "etype": "R",
       "p": "net8.a",
       "n": "net14.a",
       "value": 13300
     },
-    "R11": {
+    "R6": {
       "etype": "R",
       "p": "net9.a",
       "n": "net8.a",
       "value": 5000
     },
-    "D1": {
+    "CR5": {
       "etype": "D",
       "a": "net9.b",
       "k": "net10.a",
       "device_ref": "5082-2800-RevB"
     },
-    "D2": {
+    "CR4": {
       "etype": "D",
       "a": "net10.c",
       "k": "0.b",
       "device_ref": "5082-2800-RevB"
     },
-    "C8": {
+    "C12": {
       "etype": "C",
       "p": "net11.a",
       "n": "net10.b",
       "value": 1.2e-10
     },
-    "R12": {
+    "R11": {
       "etype": "R",
       "p": "net11.a",
       "n": "0.g",
       "value": 2150
     },
-    "C9": {
+    "C10": {
       "etype": "C",
       "p": "net2.c",
       "n": "net25.b",
       "value": 1e-11
     },
-    "Q2": {
+    "Q3": {
       "etype": "Q",
       "c": "net1.a",
       "b": "net2.a",
       "e": "net11.a",
       "device_ref": "2N5179"
     },
-    "Q3": {
+    "Q2": {
       "etype": "Q",
       "c": "net2.e",
       "b": "net25.b",
       "e": "net30.a",
       "device_ref": "2N5179"
     },
-    "C10": {
+    "C1": {
       "etype": "C",
       "p": "net30.b",
       "n": "net20.b",
       "value": 1.5e-11
     },
-    "C11": {
+    "C3": {
       "etype": "C",
       "p": "net20.b",
       "n": "net27.a",
       "value": 1.5e-11
     },
-    "C12": {
+    "C2": {
       "etype": "C",
       "p": "net30.b",
       "n": "net33.a",
       "value": 1e-7
     },
-    "DV1": {
+    "CR1": {
       "etype": "D_vcap",
       "a": "net27.a",
       "k": "net33.a",
       "value": 1e-10,
       "device_ref": "default_D_vcap"
     },
-    "R13": {
+    "R1": {
       "etype": "R",
       "p": "net27.a",
       "n": "net26.a",
       "value": 100000
     },
-    "R14": {
+    "R2": {
       "etype": "R",
       "p": "net33.a",
       "n": "net32.a",
       "value": 100000
     },
-    "L7": {
+    "L6": {
       "etype": "L",
       "p": "net15.a",
       "n": "net2.c",
@@ -821,49 +821,49 @@
         "RS": 6.8
       }
     },
-    "R15": {
+    "R10": {
       "etype": "R",
       "p": "0.m",
       "n": "net25.a",
       "value": 6810
     },
-    "R16": {
+    "R9": {
       "etype": "R",
       "p": "net25.a",
       "n": "net19.a",
       "value": 6810
     },
-    "C13": {
+    "C4": {
       "etype": "C",
       "p": "net21.a",
       "n": "net22.a",
       "value": 1e-7
     },
-    "C15": {
+    "C14": {
       "etype": "C",
       "p": "net2.a",
       "n": "net3.a",
       "value": 1e-7
     },
-    "R22": {
+    "R14": {
       "etype": "R",
       "p": "net2.b",
       "n": "net3.b",
       "value": 68100
     },
-    "R23": {
+    "R40": {
       "etype": "R",
       "p": "net5.b",
       "n": "net12.a",
       "value": 511
     },
-    "C19": {
+    "C21": {
       "etype": "C",
       "p": "net5.a",
       "n": "0.a",
       "value": 1e-7
     },
-    "L9": {
+    "L8": {
       "etype": "L",
       "p": "net5.a",
       "n": "net4.b",
@@ -872,50 +872,50 @@
         "RS": 6.8
       }
     },
-    "C20": {
+    "C24": {
       "etype": "C",
       "p": "net31.a",
       "n": "0.o",
       "value": 1e-7
     },
-    "R24": {
+    "R42": {
       "etype": "R",
       "p": "net17.c",
       "n": "net31.a",
       "value": 681
     },
-    "R25": {
+    "R41": {
       "etype": "R",
       "p": "net17.b",
       "n": "0.k",
       "value": 133
     },
-    "C21": {
+    "C23": {
       "etype": "C",
       "p": "net16.c",
       "n": "net17.b",
       "value": 1.2e-10
     },
-    "Q4": {
+    "Q9": {
       "etype": "Q",
       "c": "net12.a",
       "b": "net16.c",
       "e": "net17.a",
       "device_ref": "Q9_RF"
     },
-    "C23": {
+    "C17": {
       "etype": "C",
       "p": "net16.b",
       "n": "0.i",
       "value": 1e-11
     },
-    "R28": {
+    "R16": {
       "etype": "R",
       "p": "net23.a",
       "n": "0.j",
       "value": 909
     },
-    "L10": {
+    "L7": {
       "etype": "L",
       "p": "net16.a",
       "n": "net23.a",
@@ -931,19 +931,19 @@
       "e": "net16.a",
       "device_ref": "2N6429A"
     },
-    "R31": {
+    "R15": {
       "etype": "R",
       "p": "net3.b",
       "n": "0.h",
       "value": 100000
     },
-    "C25": {
+    "C22": {
       "etype": "C",
       "p": "net7.a",
       "n": "net6.b",
       "value": 1e-7
     },
-    "R32": {
+    "R_LOAD": {
       "etype": "R",
       "p": "net7.a",
       "n": "0.d",
