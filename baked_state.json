@@ -225,10 +225,7 @@
         "p": "net24.c",
         "n": "0.l"
       },
-      "value": 0.0001,
-      "inductorParams": {
-        "seriesResistance": 4.1
-      }
+      "value": 0.0001
     },
     "L1": {
       "etype": "L",
@@ -236,10 +233,7 @@
         "p": "net14.a",
         "n": "net22.b"
       },
-      "value": 0.00022,
-      "inductorParams": {
-        "seriesResistance": 6.8
-      }
+      "value": 0.00022
     },
     "R4": {
       "etype": "R",
@@ -263,10 +257,7 @@
         "p": "net30.c",
         "n": "net34.a"
       },
-      "value": 0.00022,
-      "inductorParams": {
-        "seriesResistance": 6.8
-      }
+      "value": 0.00022
     },
     "R8": {
       "etype": "R",
@@ -429,10 +420,7 @@
         "p": "net15.a",
         "n": "net2.c"
       },
-      "value": 0.00022,
-      "inductorParams": {
-        "seriesResistance": 6.8
-      }
+      "value": 0.00022
     },
     "R10": {
       "etype": "R",
@@ -496,10 +484,7 @@
         "p": "net5.a",
         "n": "net4.b"
       },
-      "value": 0.00022,
-      "inductorParams": {
-        "seriesResistance": 6.8
-      }
+      "value": 0.00022
     },
     "C24": {
       "etype": "C",
@@ -564,10 +549,7 @@
         "p": "net16.a",
         "n": "net23.a"
       },
-      "value": 0.00022,
-      "inductorParams": {
-        "seriesResistance": 6.8
-      }
+      "value": 0.00022
     },
     "Q5": {
       "etype": "Q",
@@ -607,23 +589,6 @@
       "pins": {
         "p": "net20.a",
         "n": "net21.a"
-      },
-      "crystalParams": {
-        "c0": 2.8e-12,
-        "arms": [
-          {
-            "name": "Fundamental",
-            "f": 3329999.9999999995,
-            "rm": 25,
-            "cm": 1.7098000999451498e-15
-          },
-          {
-            "name": "3rd overtone",
-            "f": 9989416.064352619,
-            "rm": 220,
-            "cm": 1.9e-16
-          }
-        ]
       }
     },
     "T1": {
@@ -633,11 +598,6 @@
         "p2": "net12.b",
         "s1": "net6.a",
         "s2": "0.c"
-      },
-      "transformerParams": {
-        "primaryInductance": 0.001,
-        "ratio": 1,
-        "coupling": 0.99
       }
     }
   },
@@ -1509,8 +1469,8 @@
     "wireCounter": 72,
     "nodeMarkerCounter": 2,
     "viewport": {
-      "x": -216.60000000000053,
-      "y": 109.20000000000003,
+      "x": -218.4000000000001,
+      "y": 66.59999999999998,
       "zoom": 1
     }
   }
