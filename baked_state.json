@@ -378,7 +378,7 @@
         "n": "0.g"
       },
       "value": 2150,
-      "deviceRef": "default_R"
+      "deviceRef": "thick_film"
     },
     "C10": {
       "etype": "C",
@@ -921,6 +921,12 @@
         "EG": 0.4,
         "XTI": 2,
         "TT": 1e-10
+      }
+    },
+    "thick_film": {
+      "modelType": "R",
+      "parameters": {
+        "alpha_H_N": 1.0400000000000001e-11
       }
     },
     "Q9_RF": {
@@ -1607,8 +1613,8 @@
     "wireCounter": 72,
     "nodeMarkerCounter": 2,
     "viewport": {
-      "x": 160.20000000000002,
-      "y": -30.000000000000014,
+      "x": -197.40000000000018,
+      "y": 84.60000000000079,
       "zoom": 1
     }
   }
