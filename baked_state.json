@@ -599,6 +599,15 @@
         "s1": "net6.a",
         "s2": "0.c"
       }
+    },
+    "R37": {
+      "etype": "R",
+      "pins": {
+        "p": "net35.a",
+        "n": "net36.a"
+      },
+      "value": 1000,
+      "deviceRef": "default_R"
     }
   },
   "wires": [
@@ -1446,12 +1455,28 @@
           "y": 208
         }
       }
+    },
+    "net35": {
+      "suffixes": {
+        "a": {
+          "x": 272,
+          "y": 160
+        }
+      }
+    },
+    "net36": {
+      "suffixes": {
+        "a": {
+          "x": 448,
+          "y": 128
+        }
+      }
     }
   },
   "editor": {
     "gridSize": 16,
     "counters": {
-      "R": 36,
+      "R": 37,
       "C": 30,
       "L": 10,
       "D": 2,
