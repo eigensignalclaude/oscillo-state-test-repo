@@ -152,7 +152,7 @@
       "etype": "VR",
       "pins": {
         "p": "net32.a",
-        "n": "net38.a"
+        "n": "?.r"
       },
       "value": 6.4,
       "deviceRef": "default_VR"
@@ -894,24 +894,6 @@
         "RS": 6.8
       }
     },
-    "default_L@L6": {
-      "modelType": "L",
-      "parameters": {
-        "RS": 6.8
-      }
-    },
-    "default_L@L8": {
-      "modelType": "L",
-      "parameters": {
-        "RS": 6.8
-      }
-    },
-    "default_L@L7": {
-      "modelType": "L",
-      "parameters": {
-        "RS": 6.8
-      }
-    },
     "5082-2800-RevB": {
       "modelType": "D",
       "parameters": {
@@ -927,6 +909,18 @@
         "XTI": 2,
         "IBV": 0.0001,
         "BV": 75
+      }
+    },
+    "default_L@L6": {
+      "modelType": "L",
+      "parameters": {
+        "RS": 6.8
+      }
+    },
+    "default_L@L8": {
+      "modelType": "L",
+      "parameters": {
+        "RS": 6.8
       }
     },
     "Q9_RF": {
@@ -965,6 +959,12 @@
         "NE": 1.5,
         "XTB": 0,
         "IKF": 0.15
+      }
+    },
+    "default_L@L7": {
+      "modelType": "L",
+      "parameters": {
+        "RS": 6.8
       }
     },
     "2N6429A": {
@@ -1185,6 +1185,10 @@
         "q": {
           "x": 1296,
           "y": 432
+        },
+        "r": {
+          "x": 320,
+          "y": 480
         },
         "s": {
           "x": 976,
@@ -1603,14 +1607,6 @@
           "y": 208
         }
       }
-    },
-    "net38": {
-      "suffixes": {
-        "a": {
-          "x": 304,
-          "y": 480
-        }
-      }
     }
   },
   "editor": {
@@ -1634,9 +1630,9 @@
     "wireCounter": 72,
     "nodeMarkerCounter": 2,
     "viewport": {
-      "x": -327.334468080068,
-      "y": 69.98539968968001,
-      "zoom": 1.1899995847565186
+      "x": -216.1008838942834,
+      "y": 43.604492759965915,
+      "zoom": 0.9229825463707672
     }
   }
 }
